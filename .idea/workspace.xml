@@ -1,88 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b064a4e2-8f7d-44cf-90ea-405fbd4db99f" name="Default Changelist" comment="" />
+    <list default="true" id="186ae575-e702-4383-9a30-b6983f00426e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/compare/SortCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/Evaluate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/ArrayAndArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/ArrayListInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/ResizableArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/sparse/Gomoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/sparse/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/sparse/SparseArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/ds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/IntQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/LinkListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/MyLoopQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/TestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/ChangeableCapacityStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/ChangeableCapacityStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/DownwardStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/FixedCapacityStackOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/FixedCapacityStackOfStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/LinkListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/LinkListStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/examples/AnipopString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/examples/ArrayRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/examples/ForLoopSelfIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/examples/SortedArrayUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/examples/WordsReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/Ex11167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/Ex1118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/hash/HashConflictTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/hash/HashmapHashcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/hash/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/operator/Xor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/recursion/RecursionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/sort/Sortable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/string_match/StringMatchExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jalgs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/allen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/algs4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/algs4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/BaseBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/bag/BaseBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/BaseBagTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/bag/BaseBagTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/MyStack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/MyStack1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/TestMyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/TestMyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/grammer/Generic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/SelectionSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="jalgs" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1XnMDHbiWg54DnGVzyvqPM0md6m" />
+  <component name="ProjectId" id="1atLP08730CG5FqE3UXS6EEYCiG" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="/opt/jdk1.8.0_181/jre/lib/ext/algs4.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algs4/lib/junit-4.13.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="basic.ds" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algs4/src/ds" />
+      <recent name="$PROJECT_DIR$/algs4/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Selection">
-    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.Insertion" />
-      <module name="algs4" />
+  <component name="RunManager" selected="Application.Xor">
+    <configuration name="HashmapHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.HashmapHashcode" />
+      <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Methods" />
-      <module name="algs4" />
+    <configuration name="Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.Intro" />
+      <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.Selection" />
-      <module name="algs4" />
+    <configuration name="Xor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.Xor" />
+      <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,47 +138,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StdTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.StdTest" />
-      <module name="algs4" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../sdb3/algs/algs4-data/16Kints.txt" />
+    <configuration name="Xor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="operator" />
+      <option name="MAIN_CLASS_NAME" value="operator.Xor" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ds.TestMyStack" />
-      <module name="algs4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.ds.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.TestMyStack" />
-      <item itemvalue="Application.Methods" />
-      <item itemvalue="Application.StdTest" />
-      <item itemvalue="Application.Insertion" />
-      <item itemvalue="Application.Selection" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Selection" />
-        <item itemvalue="Application.Insertion" />
-        <item itemvalue="Application.StdTest" />
-        <item itemvalue="Application.Methods" />
-        <item itemvalue="Application.TestMyStack" />
+        <item itemvalue="Application.Xor" />
+        <item itemvalue="JUnit.Xor" />
+        <item itemvalue="Application.HashmapHashcode" />
+        <item itemvalue="Application.Intro" />
       </list>
     </recent_temporary>
   </component>
@@ -171,35 +173,26 @@
         </serviceView>
       </list>
     </option>
-    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b064a4e2-8f7d-44cf-90ea-405fbd4db99f" name="Default Changelist" comment="" />
-      <created>1581677283739</created>
+      <changelist id="186ae575-e702-4383-9a30-b6983f00426e" name="Default Changelist" comment="" />
+      <created>1587549915317</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581677283739</updated>
-      <workItem from="1581677286827" duration="532000" />
-      <workItem from="1581677836138" duration="3868000" />
-      <workItem from="1581685823675" duration="1727000" />
-      <workItem from="1581738834172" duration="14487000" />
-      <workItem from="1581774890241" duration="643000" />
-      <workItem from="1581812514078" duration="11359000" />
-      <workItem from="1581849813759" duration="3833000" />
-      <workItem from="1581898486683" duration="11878000" />
-      <workItem from="1581922450264" duration="11237000" />
-      <workItem from="1581987150353" duration="15422000" />
-      <workItem from="1582074288397" duration="23842000" />
-      <workItem from="1582165660005" duration="24872000" />
-      <workItem from="1582247029754" duration="8993000" />
-      <workItem from="1582278397800" duration="344000" />
-      <workItem from="1582362318673" duration="11303000" />
-      <workItem from="1582447304808" duration="6372000" />
-      <workItem from="1582514829765" duration="9074000" />
+      <updated>1587549915317</updated>
+      <workItem from="1587549919345" duration="6100000" />
+      <workItem from="1587611149686" duration="5481000" />
+      <workItem from="1587623057232" duration="4372000" />
+      <workItem from="1587629869478" duration="6933000" />
+      <workItem from="1587647655723" duration="5000" />
+      <workItem from="1587651970534" duration="7044000" />
+      <workItem from="1587692976556" duration="31000" />
+      <workItem from="1587717070585" duration="335000" />
+      <workItem from="1587717435125" duration="1703000" />
     </task>
     <servers />
   </component>
@@ -207,113 +200,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="672" y="206" key="#Counter" timestamp="1581901460605">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="584" y="202" key="#Inspections" timestamp="1587558604863">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="672" y="206" key="#Counter/0.0.1920.1080@0.0.1920.1080" timestamp="1581901460605" />
-    <state x="559" y="195" key="#Images" timestamp="1582083476109">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="584" y="202" key="#Inspections/50.0.1870.1080@50.0.1870.1080" timestamp="1587558604863" />
+    <state x="584" y="202" key="#Vim_Emulation" timestamp="1587558636417">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="559" y="195" key="#Images/0.0.1920.1080@0.0.1920.1080" timestamp="1582083476109" />
-    <state x="559" y="195" key="#Notifications" timestamp="1581988560315">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="584" y="202" key="#Vim_Emulation/50.0.1870.1080@50.0.1870.1080" timestamp="1587558636417" />
+    <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587558620505">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="559" y="195" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1581988560315" />
-    <state x="559" y="195" key="#Project_Structure" timestamp="1581677514185">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1587558620505" />
+    <state x="772" y="298" key="FileChooserDialogImpl" timestamp="1587684604215">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="559" y="195" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1581677514185" />
-    <state x="341" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582367214725">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="772" y="298" key="FileChooserDialogImpl/50.0.1870.1080@50.0.1870.1080" timestamp="1587684604215" />
+    <state width="617" height="915" key="GridCell.Tab.0.bottom" timestamp="1587691427421">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="341" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582367214725" />
-    <state x="729" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1582182219723">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="617" height="915" key="GridCell.Tab.0.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1587691427421" />
+    <state width="617" height="915" key="GridCell.Tab.0.center" timestamp="1587691427421">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="729" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582182219723" />
-    <state x="718" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582168308572">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="617" height="915" key="GridCell.Tab.0.center/50.0.1870.1080@50.0.1870.1080" timestamp="1587691427421" />
+    <state width="617" height="915" key="GridCell.Tab.0.left" timestamp="1587691427421">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="718" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1582168308572" />
-    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1582168335989">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="617" height="915" key="GridCell.Tab.0.left/50.0.1870.1080@50.0.1870.1080" timestamp="1587691427421" />
+    <state width="617" height="915" key="GridCell.Tab.0.right" timestamp="1587691427421">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582168335989" />
-    <state x="746" y="292" key="FileChooserDialogImpl" timestamp="1582541280111">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="617" height="915" key="GridCell.Tab.0.right/50.0.1870.1080@50.0.1870.1080" timestamp="1587691427421" />
+    <state x="472" y="118" width="1026" height="843" key="SettingsEditor" timestamp="1587684611043">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="746" y="292" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1582541280111" />
-    <state width="621" height="919" key="GridCell.Tab.0.bottom" timestamp="1582553721876">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="472" y="118" width="1026" height="843" key="SettingsEditor/50.0.1870.1080@50.0.1870.1080" timestamp="1587684611043" />
+    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1587718831528">
+      <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state width="621" height="919" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582553721876" />
-    <state width="621" height="919" key="GridCell.Tab.0.center" timestamp="1582553721875">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="621" height="919" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582553721875" />
-    <state width="621" height="919" key="GridCell.Tab.0.left" timestamp="1582553721875">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="621" height="919" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582553721875" />
-    <state width="621" height="919" key="GridCell.Tab.0.right" timestamp="1582553721876">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="621" height="919" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582553721876" />
-    <state width="1874" height="350" key="GridCell.Tab.1.bottom" timestamp="1582027402389">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582027402389" />
-    <state width="1874" height="350" key="GridCell.Tab.1.center" timestamp="1582027402389">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="350" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582027402389" />
-    <state width="1874" height="350" key="GridCell.Tab.1.left" timestamp="1582027402389">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="350" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582027402389" />
-    <state width="1874" height="350" key="GridCell.Tab.1.right" timestamp="1582027402389">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="350" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582027402389" />
-    <state x="621" y="234" key="NewModule_or_Project.wizard" timestamp="1582278653309">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="621" y="234" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1582278653309" />
-    <state x="468" y="169" key="SettingsEditor" timestamp="1582278617234">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="468" y="169" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1582278617234" />
-    <state x="658" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1582514831090">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="658" y="360" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582514831090" />
-    <state x="667" y="430" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581997310079">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="667" y="430" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1581997310079" />
-    <state x="538" y="148" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582099129031">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="538" y="148" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582099129031" />
-    <state x="738" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581910759482">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="738" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581910759482" />
-    <state x="339" y="147" key="new project wizard" timestamp="1581677411633">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="339" y="147" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1581677411633" />
-    <state x="732" y="408" width="697" height="313" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1582083468973">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="732" y="408" width="697" height="313" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582083468973" />
-    <state x="624" y="244" key="run.anything.popup" timestamp="1582369207780">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="624" y="244" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1582369207780" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1582452583629">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1582452583629" />
+    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1587718831528" />
   </component>
 </project>
