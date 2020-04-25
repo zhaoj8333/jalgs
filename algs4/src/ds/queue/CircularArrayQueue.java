@@ -8,10 +8,11 @@ import java.util.Scanner;
  * 队列：有序列表，FIFO
  * 可以用 数组或链表 实现
  */
-public class ArrayQueue {
+public class CircularArrayQueue {
 
     public static void main(String[] args) {
-        ArrayQueue arrayQueue = new ArrayQueue(3);
+        // 队列有效数据最多3
+        CircularArrayQueue arrayQueue = new CircularArrayQueue(4);
         char key = ' ';
         Scanner scanner = new Scanner(System.in);
         boolean loop = true;
@@ -35,7 +36,7 @@ public class ArrayQueue {
                 case 'g':
                     try {
                         int res = arrayQueue.get();
-                        StdOut.printf("取出的数据为： %d\n" + res);
+                        System.out.printf("取出的数据为： %d\n", res);
                     } catch (Exception e) {
                         StdOut.println(e.getMessage());
                     }
@@ -43,7 +44,7 @@ public class ArrayQueue {
                 case 'h':
                     try {
                         int res = arrayQueue.have();
-                        StdOut.printf("队列头数据为： %d\n", res);
+                        System.out.printf("队列头数据为： %d\n", res);
                     } catch (Exception e) {
                         StdOut.println(e.getMessage());
                     }
@@ -65,17 +66,25 @@ public class ArrayQueue {
     private int rear;
     private int[] arr;
 
-    public ArrayQueue(int maxSize) {
+    /**
+     * 队列中有效的元素个数为：
+     *     (rear + maxSize - front) % maxSize
+     */
+    public CircularArrayQueue(int maxSize) {
         this.maxSize = maxSize;
         arr   = new int[maxSize];
-        front = -1;  // 队列头前一个位置
-        rear  = -1;  // 队列尾，就是队列最后一个数据
     }
 
+    /**
+     * 队列满的条件： (rear + 1) % maxSize = front
+     */
     public boolean isFull() {
-        return rear == maxSize - 1;
+        return (rear + 1) % maxSize == front;
     }
 
+    /**
+     * 队列为空的条件： rear == front
+     */
     public boolean isEmpty() {
         return rear == front;
     }
@@ -85,16 +94,19 @@ public class ArrayQueue {
             StdOut.println("队列满");
             return;
         }
-
-        this.arr[++rear] = n;
+        arr[rear] = n;
+        rear = (rear + 1) % maxSize;
+        // 防止越界
     }
 
     public int get() {
         if (isEmpty()) {
             throw new RuntimeException("队列空");
         }
-
-        return arr[++front];
+        int tmp = arr[front];
+        front = (front + 1) % maxSize;
+        // 防止越界
+        return tmp;
     }
 
     public void show() {
@@ -102,10 +114,14 @@ public class ArrayQueue {
             StdOut.println("队列空");
             return;
         }
-        for (int i = 0; i < arr.length; i++) {
-            StdOut.printf("arr[%d] = %d\n", i, arr[i]);
+        // 从front开始遍历，
+        for (int i = front; i < front + size(); i++) {
+            StdOut.printf("arr[%d] = %d\n", i % maxSize, arr[i % maxSize]);
         }
+    }
 
+    private int size() {
+        return (rear + maxSize - front) % maxSize;
     }
 
     public int have() {
@@ -113,7 +129,7 @@ public class ArrayQueue {
             throw new RuntimeException("队列空");
         }
 
-        return arr[front + 1];
+        return arr[front];
     }
 }
 

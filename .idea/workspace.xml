@@ -2,62 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="186ae575-e702-4383-9a30-b6983f00426e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/compare/SortCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/Evaluate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/ArrayAndArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/ArrayListInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/ResizableArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/sparse/Gomoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/sparse/SparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/sparse/SparseArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/ds.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/IntQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/LinkListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/MyLoopQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/bak/TestQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/ChangeableCapacityStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/ChangeableCapacityStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/DownwardStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/FixedCapacityStackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/FixedCapacityStackOfStringsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/LinkListStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/LinkListStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/examples/AnipopString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/examples/ArrayRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/examples/ForLoopSelfIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/examples/SortedArrayUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/examples/WordsReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/Ex11167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/Ex1118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/hash/HashConflictTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/hash/HashmapHashcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/hash/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/operator/Xor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/recursion/RecursionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/sort/Sortable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/string_match/StringMatchExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jalgs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/allen.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/CircularArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/CircularArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/SortedSparseArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/SparseArrayByArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/SparseArrayBySingleLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/algs4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/algs4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/BaseBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/bag/BaseBag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/BaseBagTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/bag/BaseBagTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/MyStack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/MyStack1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/ds/TestMyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/TestMyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/grammer/Generic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/DoubleFold.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/DoubleFold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ex1112.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex1112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ex11167.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex11167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ex1118.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex1118.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ex116.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex116.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext1113.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1113.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext1114.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1114.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext1115.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1115.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext117.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext117.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext119.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/LoopRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/LoopRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/NarcissisticNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/NarcissisticNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/TaxCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/TaxCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,18 +63,21 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ds.queue" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algs4/src/ds" />
       <recent name="$PROJECT_DIR$/algs4/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Xor">
-    <configuration name="HashmapHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.HashmapHashcode" />
+  <component name="RunManager" selected="Application.CircularArray">
+    <configuration name="ArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.queue.ArrayQueue" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="ds.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.Intro" />
+    <configuration name="CircularArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.array.CircularArray" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="ds.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Xor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.Xor" />
+    <configuration name="CircularArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.queue.CircularArrayQueue" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="ds.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,27 +111,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Xor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortedSparseArraySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.SortedSparseArraySearch" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="operator" />
-      <option name="MAIN_CLASS_NAME" value="operator.Xor" />
-      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparseArrayBySingleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.SparseArrayBySingleLinkedList" />
+      <module name="jalgs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Xor" />
-        <item itemvalue="JUnit.Xor" />
-        <item itemvalue="Application.HashmapHashcode" />
-        <item itemvalue="Application.Intro" />
+        <item itemvalue="Application.CircularArray" />
+        <item itemvalue="Application.CircularArrayQueue" />
+        <item itemvalue="Application.ArrayQueue" />
+        <item itemvalue="Application.SparseArrayBySingleLinkedList" />
+        <item itemvalue="Application.SortedSparseArraySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +177,10 @@
       <workItem from="1587651970534" duration="7044000" />
       <workItem from="1587692976556" duration="31000" />
       <workItem from="1587717070585" duration="335000" />
-      <workItem from="1587717435125" duration="1703000" />
+      <workItem from="1587717435125" duration="3582000" />
+      <workItem from="1587723421495" duration="11513000" />
+      <workItem from="1587777910144" duration="2533000" />
+      <workItem from="1587800956710" duration="9681000" />
     </task>
     <servers />
   </component>
@@ -200,6 +188,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="584" y="202" key="#Deployment" timestamp="1587723512946">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="584" y="202" key="#Deployment/50.0.1870.1080@50.0.1870.1080" timestamp="1587723512946" />
     <state x="584" y="202" key="#Inspections" timestamp="1587558604863">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
@@ -208,37 +200,49 @@
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="584" y="202" key="#Vim_Emulation/50.0.1870.1080@50.0.1870.1080" timestamp="1587558636417" />
+    <state x="448" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587805362379">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="448" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1587805362379" />
     <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587558620505">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1587558620505" />
+    <state x="797" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1587804258082">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="797" y="260" key="#com.intellij.ide.util.MemberChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1587804258082" />
+    <state x="150" y="100" width="1670" height="880" key="DiffContextDialog" timestamp="1587730265600">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="150" y="100" width="1670" height="880" key="DiffContextDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1587730265600" />
     <state x="772" y="298" key="FileChooserDialogImpl" timestamp="1587684604215">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="772" y="298" key="FileChooserDialogImpl/50.0.1870.1080@50.0.1870.1080" timestamp="1587684604215" />
-    <state width="617" height="915" key="GridCell.Tab.0.bottom" timestamp="1587691427421">
+    <state width="486" height="915" key="GridCell.Tab.0.bottom" timestamp="1587810564870">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state width="617" height="915" key="GridCell.Tab.0.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1587691427421" />
-    <state width="617" height="915" key="GridCell.Tab.0.center" timestamp="1587691427421">
+    <state width="486" height="915" key="GridCell.Tab.0.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1587810564870" />
+    <state width="486" height="915" key="GridCell.Tab.0.center" timestamp="1587810564870">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state width="617" height="915" key="GridCell.Tab.0.center/50.0.1870.1080@50.0.1870.1080" timestamp="1587691427421" />
-    <state width="617" height="915" key="GridCell.Tab.0.left" timestamp="1587691427421">
+    <state width="486" height="915" key="GridCell.Tab.0.center/50.0.1870.1080@50.0.1870.1080" timestamp="1587810564870" />
+    <state width="486" height="915" key="GridCell.Tab.0.left" timestamp="1587810564870">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state width="617" height="915" key="GridCell.Tab.0.left/50.0.1870.1080@50.0.1870.1080" timestamp="1587691427421" />
-    <state width="617" height="915" key="GridCell.Tab.0.right" timestamp="1587691427421">
+    <state width="486" height="915" key="GridCell.Tab.0.left/50.0.1870.1080@50.0.1870.1080" timestamp="1587810564870" />
+    <state width="486" height="915" key="GridCell.Tab.0.right" timestamp="1587810564870">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state width="617" height="915" key="GridCell.Tab.0.right/50.0.1870.1080@50.0.1870.1080" timestamp="1587691427421" />
+    <state width="486" height="915" key="GridCell.Tab.0.right/50.0.1870.1080@50.0.1870.1080" timestamp="1587810564870" />
     <state x="472" y="118" width="1026" height="843" key="SettingsEditor" timestamp="1587684611043">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="472" y="118" width="1026" height="843" key="SettingsEditor/50.0.1870.1080@50.0.1870.1080" timestamp="1587684611043" />
-    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1587718831528">
+    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1587776920336">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1587718831528" />
+    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1587776920336" />
   </component>
 </project>

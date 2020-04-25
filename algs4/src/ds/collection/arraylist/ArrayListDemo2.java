@@ -45,12 +45,12 @@ public class ArrayListDemo2 {
 //        listCopy();
 //        multiThreadUpdateAndRead();
 //        arrayAndLinkList();
-        customizedArrayList();
+//        customizedArrayList();
     }
 
     private static void customizedArrayList() {
-        MyArrayList<String> mylist = new MyArrayList<>();
-        System.out.println(mylist);
+//        MyArrayList<String> mylist = new MyArrayList<>();
+//        System.out.println(mylist);
     }
 
     private static void arrayAndLinkList() {
