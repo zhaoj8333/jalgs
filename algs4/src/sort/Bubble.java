@@ -28,6 +28,7 @@ import java.util.Random;
  *    It produces at least twice as many writes as insertion sort, twice as many cache misses, and asymptotically more branch mispredictions
  * 8. Bubble Sort is popular for its capability to detect a very small error, like swap of just two elements in almost-sorted arrays and fix it with just linear complexity
  *
+ * @author allen
  */
 public class Bubble {
     private static int count = 0;

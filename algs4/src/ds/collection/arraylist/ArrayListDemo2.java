@@ -46,6 +46,17 @@ public class ArrayListDemo2 {
 //        multiThreadUpdateAndRead();
 //        arrayAndLinkList();
 //        customizedArrayList();
+        capacityShink();
+    }
+
+    private static void capacityShink() {
+        // ArrayList 的 trimToSize 将缩小到ArrayList.size的大小，
+        // 该方法为手动触发
+
+        /**
+         * 复杂度震荡：
+         *
+         */
     }
 
     private static void customizedArrayList() {

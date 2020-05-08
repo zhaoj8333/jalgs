@@ -2,41 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="186ae575-e702-4383-9a30-b6983f00426e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/array/CircularArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/CircularArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/SortedSparseArraySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/SparseArrayByArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/SparseArrayBySingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/analyze/DoublingRatio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/analyze/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/basic/bit/SignOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/basic/math/HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/basic/math/IntCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/basic/math/PopCnt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/circle/DoublyCircularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/circle/SingleCircularLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/josephus/ByDoublyCircularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/CycleDetect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/LinkedListReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedListReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/VirtualHeadNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayDeQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/QueueByDoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/QueueByStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/ResizableArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/ResizableCircleDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/queue/pakcage-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/app/EvaluateBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/stack/by/StackByArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/sort/HeapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/american-english" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/american-english" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/basic/math/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/Evaluate.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/app/DijkstraEvaluate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/collection/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueueTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/DoubleFold.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/DoubleFold.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ex1112.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex1112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ex11167.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex11167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ex1118.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex1118.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ex116.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex116.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext1113.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext1114.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1114.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext1115.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1115.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext117.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext117.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Ext119.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext119.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/LoopRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/LoopRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/NarcissisticNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/NarcissisticNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/TaxCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/TaxCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/DoubleLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/LinkedListTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/MyLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/ReverseLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/CircularArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/queue/CircularArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/ChangeableCapacityStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/ChangeableCapacityStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/ChangeableCapacityStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/ChangeableCapacityStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/DownwardStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/DownwardStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/FixedCapacityStackOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/FixedCapacityStackOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/FixedCapacityStackOfStringsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/FixedCapacityStackOfStringsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/LinkListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/LinkListStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/LinkListStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/LinkListStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/MyStack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/MyStack1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/TestMyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/stack/bak/TestMyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/hash/HashConflictTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/hash/HashConflictTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/hash/Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/hash/Hash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/Bubble.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -45,6 +88,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1atLP08730CG5FqE3UXS6EEYCiG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,28 +100,35 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/algs4/lib/junit-4.13.jar!/" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ds.queue" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algs4/src/ds" />
       <recent name="$PROJECT_DIR$/algs4/src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tool" />
+      <recent name="ds.queue" />
+      <recent name="ds.collection.linkedlist.circle" />
+      <recent name="ds.collection.linkedlist.doubly" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.CircularArray">
-    <configuration name="ArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.queue.ArrayQueue" />
+  <component name="RunManager" selected="Application.SignOfInteger">
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.tree.BST" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.queue.*" />
+          <option name="PATTERN" value="ds.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircularArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.array.CircularArray" />
+    <configuration name="HammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.math.HammingDistance" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.array.*" />
+          <option name="PATTERN" value="basic.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircularArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.queue.CircularArrayQueue" />
+    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.tree.Node" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.queue.*" />
+          <option name="PATTERN" value="ds.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedSparseArraySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.SortedSparseArraySearch" />
+    <configuration name="PopCnt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.math.PopCnt" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="basic.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SparseArrayBySingleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.SparseArrayBySingleLinkedList" />
+    <configuration name="SignOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.bit.SignOfInteger" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="basic.bit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +188,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Node" />
+      <item itemvalue="Application.BST" />
+      <item itemvalue="Application.PopCnt" />
+      <item itemvalue="Application.HammingDistance" />
+      <item itemvalue="Application.SignOfInteger" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircularArray" />
-        <item itemvalue="Application.CircularArrayQueue" />
-        <item itemvalue="Application.ArrayQueue" />
-        <item itemvalue="Application.SparseArrayBySingleLinkedList" />
-        <item itemvalue="Application.SortedSparseArraySearch" />
+        <item itemvalue="Application.SignOfInteger" />
+        <item itemvalue="Application.PopCnt" />
+        <item itemvalue="Application.HammingDistance" />
+        <item itemvalue="Application.BST" />
+        <item itemvalue="Application.Node" />
       </list>
     </recent_temporary>
   </component>
@@ -181,11 +239,38 @@
       <workItem from="1587723421495" duration="11513000" />
       <workItem from="1587777910144" duration="2533000" />
       <workItem from="1587800956710" duration="9681000" />
+      <workItem from="1587856648388" duration="5581000" />
+      <workItem from="1587888602793" duration="13850000" />
+      <workItem from="1587905631556" duration="10213000" />
+      <workItem from="1587955813100" duration="3795000" />
+      <workItem from="1587969376693" duration="57911000" />
+      <workItem from="1588127891622" duration="58000" />
+      <workItem from="1588146578602" duration="21747000" />
+      <workItem from="1588381376793" duration="6440000" />
+      <workItem from="1588468003037" duration="19501000" />
+      <workItem from="1588575623547" duration="275000" />
+      <workItem from="1588576738016" duration="3441000" />
+      <workItem from="1588637408662" duration="1208000" />
+      <workItem from="1588670077052" duration="601000" />
+      <workItem from="1588674411172" duration="1126000" />
+      <workItem from="1588723180550" duration="25030000" />
+      <workItem from="1588772162078" duration="760000" />
+      <workItem from="1588810037746" duration="8001000" />
+      <workItem from="1588835911552" duration="238000" />
+      <workItem from="1588836168689" duration="13897000" />
+      <workItem from="1588860993472" duration="856000" />
+      <workItem from="1588899267500" duration="11604000" />
+      <workItem from="1588918351297" duration="10710000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/algs4/lib/tree_printer" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="584" y="202" key="#Deployment" timestamp="1587723512946">
@@ -200,49 +285,110 @@
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="584" y="202" key="#Vim_Emulation/50.0.1870.1080@50.0.1870.1080" timestamp="1587558636417" />
-    <state x="448" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587805362379">
+    <state x="410" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588846274619">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="448" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1587805362379" />
-    <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587558620505">
+    <state x="410" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1588846274619" />
+    <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588000882672">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1587558620505" />
-    <state x="797" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1587804258082">
+    <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1588000882672" />
+    <state x="797" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1588842037177">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="797" y="260" key="#com.intellij.ide.util.MemberChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1587804258082" />
+    <state x="797" y="260" key="#com.intellij.ide.util.MemberChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1588842037177" />
+    <state x="778" y="153" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1588810277083">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="778" y="153" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1588810277083" />
+    <state x="722" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1587944040944">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="722" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1587944040944" />
+    <state x="598" y="54" key="CommitChangelistDialog2" timestamp="1588053987289">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="598" y="54" key="CommitChangelistDialog2/50.0.1870.1080@50.0.1870.1080" timestamp="1588053987289" />
     <state x="150" y="100" width="1670" height="880" key="DiffContextDialog" timestamp="1587730265600">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="150" y="100" width="1670" height="880" key="DiffContextDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1587730265600" />
-    <state x="772" y="298" key="FileChooserDialogImpl" timestamp="1587684604215">
+    <state x="772" y="298" width="426" height="595" key="FileChooserDialogImpl" timestamp="1588839980263">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="772" y="298" key="FileChooserDialogImpl/50.0.1870.1080@50.0.1870.1080" timestamp="1587684604215" />
-    <state width="486" height="915" key="GridCell.Tab.0.bottom" timestamp="1587810564870">
+    <state x="772" y="298" width="426" height="595" key="FileChooserDialogImpl/50.0.1870.1080@50.0.1870.1080" timestamp="1588839980263" />
+    <state width="600" height="915" key="GridCell.Tab.0.bottom" timestamp="1588926636372">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state width="486" height="915" key="GridCell.Tab.0.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1587810564870" />
-    <state width="486" height="915" key="GridCell.Tab.0.center" timestamp="1587810564870">
+    <state width="600" height="915" key="GridCell.Tab.0.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1588926636372" />
+    <state width="600" height="915" key="GridCell.Tab.0.center" timestamp="1588926636371">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state width="486" height="915" key="GridCell.Tab.0.center/50.0.1870.1080@50.0.1870.1080" timestamp="1587810564870" />
-    <state width="486" height="915" key="GridCell.Tab.0.left" timestamp="1587810564870">
+    <state width="600" height="915" key="GridCell.Tab.0.center/50.0.1870.1080@50.0.1870.1080" timestamp="1588926636371" />
+    <state width="600" height="915" key="GridCell.Tab.0.left" timestamp="1588926636371">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state width="486" height="915" key="GridCell.Tab.0.left/50.0.1870.1080@50.0.1870.1080" timestamp="1587810564870" />
-    <state width="486" height="915" key="GridCell.Tab.0.right" timestamp="1587810564870">
+    <state width="600" height="915" key="GridCell.Tab.0.left/50.0.1870.1080@50.0.1870.1080" timestamp="1588926636371" />
+    <state width="600" height="915" key="GridCell.Tab.0.right" timestamp="1588926636372">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state width="486" height="915" key="GridCell.Tab.0.right/50.0.1870.1080@50.0.1870.1080" timestamp="1587810564870" />
-    <state x="472" y="118" width="1026" height="843" key="SettingsEditor" timestamp="1587684611043">
+    <state width="600" height="915" key="GridCell.Tab.0.right/50.0.1870.1080@50.0.1870.1080" timestamp="1588926636372" />
+    <state width="1824" height="343" key="GridCell.Tab.1.bottom" timestamp="1588916368207">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="472" y="118" width="1026" height="843" key="SettingsEditor/50.0.1870.1080@50.0.1870.1080" timestamp="1587684611043" />
-    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1587776920336">
+    <state width="1824" height="343" key="GridCell.Tab.1.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1588916368207" />
+    <state width="1824" height="343" key="GridCell.Tab.1.center" timestamp="1588916368207">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
-    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1587776920336" />
+    <state width="1824" height="343" key="GridCell.Tab.1.center/50.0.1870.1080@50.0.1870.1080" timestamp="1588916368207" />
+    <state width="1824" height="343" key="GridCell.Tab.1.left" timestamp="1588916368207">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state width="1824" height="343" key="GridCell.Tab.1.left/50.0.1870.1080@50.0.1870.1080" timestamp="1588916368207" />
+    <state width="1824" height="343" key="GridCell.Tab.1.right" timestamp="1588916368207">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state width="1824" height="343" key="GridCell.Tab.1.right/50.0.1870.1080@50.0.1870.1080" timestamp="1588916368207" />
+    <state x="572" y="278" key="IDE.errors.dialog" timestamp="1587904036322">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="572" y="278" key="IDE.errors.dialog/50.0.1870.1080@50.0.1870.1080" timestamp="1587904036322" />
+    <state x="646" y="166" key="NewModule_or_Project.wizard" timestamp="1588839995788">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="646" y="166" key="NewModule_or_Project.wizard/50.0.1870.1080@50.0.1870.1080" timestamp="1588839995788" />
+    <state x="480" y="97" width="1026" height="843" key="SettingsEditor" timestamp="1588918373285">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="480" y="97" width="1026" height="843" key="SettingsEditor/50.0.1870.1080@50.0.1870.1080" timestamp="1588918373285" />
+    <state width="1640" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1588171049490">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state width="1640" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction/50.0.1870.1080@50.0.1870.1080" timestamp="1588171049490" />
+    <state x="792" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588810280840">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="792" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/50.0.1870.1080@50.0.1870.1080" timestamp="1588810280840" />
+    <state x="722" y="298" key="extract.method.dialog" timestamp="1588842501396">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="722" y="298" key="extract.method.dialog/50.0.1870.1080@50.0.1870.1080" timestamp="1588842501396" />
+    <state x="364" y="88" key="new project wizard" timestamp="1588767074880">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="364" y="88" key="new project wizard/50.0.1870.1080@50.0.1870.1080" timestamp="1588767074880" />
+    <state x="649" y="248" key="run.anything.popup" timestamp="1588766851486">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="649" y="248" key="run.anything.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1588766851486" />
+    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1588927671844">
+      <screen x="50" y="0" width="1870" height="1080" />
+    </state>
+    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1588927671844" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jalgs$SingleLinkedListReverse.ic" NAME="SingleLinkedListReverse Coverage Results" MODIFIED="1587894339018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ds.collection.linkedlist.*</FILTER>
+    </SUITE>
   </component>
 </project>

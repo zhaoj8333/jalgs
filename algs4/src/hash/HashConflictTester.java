@@ -63,7 +63,7 @@ public class HashConflictTester {
     }
 
     private static List<String> getWords() throws IOException{
-        InputStream is = Intro.class.getClassLoader().getResourceAsStream("american-english");
+        InputStream is = Hash.class.getClassLoader().getResourceAsStream("american-english");
         return IOUtils.readLines(is, "UTF-8");
     }
 
