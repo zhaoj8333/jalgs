@@ -7,7 +7,7 @@ import java.util.HashMap;
  * 非同步
  * 不保证有序
  */
-public class HashMapDemo {
+public class HashMapDemo1 {
     public static void main(String[] args) {
 //        putProcess();
 //        hashAlgs();

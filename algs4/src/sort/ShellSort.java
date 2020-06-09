@@ -3,6 +3,7 @@ package sort;
 import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Arrays;
+import java.util.Random;
 
 /**
  * 希尔排序（壳排序）：
@@ -14,35 +15,27 @@ import java.util.Arrays;
  *        间隔h初始值为1，通过h=3*h + 1来循环计算,最大值不大于数组大小
  *        间隔的减少：h = (h-1) / 3
  *
+ * 递减增量排序：
+ *     希尔排序把序列看成一个矩阵，分成m列，逐列进行排序
+ *     m从某个数逐渐减为1
+ *     当m为1时，整个序列将完全有序
+ *
  * @author allen
  */
 public class ShellSort {
     public static void main(String[] args) {
 //        insertionSort();
-        sort1();
+        Random r = new Random();
+        Integer[] arr = new Integer[10];
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = r.nextInt(100);
+        }
+        StdOut.println(Arrays.toString(arr));
+        sort(arr);
+        StdOut.println(Arrays.toString(arr));
     }
 
-    private static void sort1() {
-        int[] arr = new int[]{99, 33, 1, 21, 27, 42, 71, 93, 41, 89};
-
-        int h = 1;
-        while (h < arr.length / 3) {
-            h = h * 3 + 1;
-        }
-
-        while (h > 0) {
-            // 插入排序
-            int tmp = 0;
-            for (int i = h; i < arr.length; i++) {
-                
-            }
-            // 减小间隔
-            h = (h - 1) / 3;
-
-        }
-
-        StdOut.println(h);
-
+    public static void sort(Comparable[] arr) {
     }
 
     /**

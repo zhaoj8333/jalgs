@@ -1,7 +1,9 @@
 package sort;
 
+import edu.princeton.cs.algs4.StdDraw;
 import edu.princeton.cs.algs4.StdOut;
 
+import java.util.Arrays;
 import java.util.Random;
 
 /**
@@ -27,14 +29,9 @@ import java.util.Random;
  *  10. Variants: HeapSort
  *  11. cocktail sort: bidirectional sort
  *  12. Selection sort can be implemented as a stable sort.
+ * @author allen
  */
-public class SelectionSort /**implements Comparable<Selection> */{
-
-    private static int count;
-
-    private final String str = "";
-
-    private final int num = 0;
+public class SelectionSort extends Sortion {
 
 //    @Override
 //    public int compareTo(String a) {
@@ -64,7 +61,7 @@ public class SelectionSort /**implements Comparable<Selection> */{
     public static void main(String[] args) {
         Random random = new Random();
         int num   = 10;
-        int[] arr = new int[num];
+        Integer[] arr = new Integer[num];
         for (int i = 0; i < 10; i++) {
             arr[i] = random.nextInt(100); // 0 - 99
         }
@@ -72,8 +69,11 @@ public class SelectionSort /**implements Comparable<Selection> */{
 //        int[] arr = StdIn.readAllInts();
 //        StdOut.println("arr-length: " + arr.length);
 //        StdOut.println("before: " + Arrays.toString(arr));
-//
-        sort1(arr);
+
+        show(arr);
+        sort(arr);
+        show(arr);
+        //        sort1(arr);
 //        StdOut.println("count 1 : " + count);
 //        String[] arr = generateString(10);
 //        StdOut.println(Arrays.toString(arr));
@@ -86,15 +86,12 @@ public class SelectionSort /**implements Comparable<Selection> */{
 //       选择排序交换次数比较少，效率较高
     }
 
-    public static void sort2(String[] arr) {
-        count = 0;
-        int index = 0;
-        String tmp = "";
-        for (int i = 0; i < arr.length; i++) {
-            index = i;
-            for (int j = i + 1; j < arr.length; j++) {
-                count++;
-                if (arr[j].compareTo(arr[j + 1]) == 0) {
+    public static void sort(Comparable[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n; i++) {
+            int index = i;
+            for (int j = i + 1; j < n; j++) {
+                if (less(arr[j], arr[index])) {
                     index = j;
                 }
             }
@@ -102,45 +99,14 @@ public class SelectionSort /**implements Comparable<Selection> */{
                 swap(arr, index, i);
             }
         }
-        StdOut.println(arr);
     }
 
-    public static void swap(String[] arr, int m, int n) {
-        String temp = arr[m];
-        arr[m] = arr[n];
-        arr[n] = temp;
-    }
+    /**
+     *  选择排序：
+     *     通过使用堆,选最值，堆排序
+     */
+    public static void sortOptimize(String[] arr) {
 
-    public static void sort1(int[] arr) {
-        count = 0;
-
-//        arr = new int[]{10, 1, 52, 60, 22, 14, 19, 42};
-//        StdOut.println("before: " + Arrays.toString(arr));
-//        StdOut.println();
-        SortDraw.setScale(arr);
-
-        int index, tmp = 0;
-        for (int i = 0; i < arr.length - 1; i++) {
-            index = i;
-            for (int j = i + 1; j < arr.length; j++) {
-                count++;
-                if (arr[j] < arr[index]) {
-                    index = j;
-                }
-            }
-            /**
-             * 交换代码在内层循环之外，所以交换次数总是 N
-             */
-            if (i != index) {
-                tmp = arr[i];
-                arr[i] = arr[index];
-                arr[index] = tmp;
-            }
-//            StdOut.println("i: " + i + " " + Arrays.toString(arr));
-            SortDraw.doDraw(arr,true, true);
-        }
-//        StdOut.println();
-//        StdOut.println("after:  " + Arrays.toString(arr));
     }
 
 }

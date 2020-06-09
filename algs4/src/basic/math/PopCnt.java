@@ -14,18 +14,18 @@ public class PopCnt {
 
 //        StdOut.println("binary format: " + Integer.toBinaryString(num));
         int cnt = byBytesMove(num);
-//        StdOut.println("number of set bits: " + cnt);
+//        StdOut.println("number of ds.set bits: " + cnt);
 //        cnt = byByteMoveRecursively(num);
-//        StdOut.println("number of set bits: " + cnt);
+//        StdOut.println("number of ds.set bits: " + cnt);
 //        cnt = bySubstract(num);
-//        StdOut.println("number of set bits: " + cnt);
+//        StdOut.println("number of ds.set bits: " + cnt);
 //        cnt = bySubstractRecursive(num);
-//        StdOut.println("number of set bits: " + cnt);
+//        StdOut.println("number of ds.set bits: " + cnt);
 //        byLookup(323);
 //        num = 3234;
 //        StdOut.println("binary format: " + Integer.toBinaryString(num));
         cnt = byBuiltin(3234);
-        StdOut.println("number of set bits: " + cnt);
+        StdOut.println("number of ds.set bits: " + cnt);
     }
 
     /**

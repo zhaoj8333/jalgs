@@ -18,7 +18,7 @@ public class HeapSort {
         StdOut.println(Arrays.toString(array));
     }
 
-    public static void sort(Integer[] array) {
+    public static void sort(Comparable[] array) {
 
     }
 }

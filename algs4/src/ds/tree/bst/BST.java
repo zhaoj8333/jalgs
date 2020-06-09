@@ -1,4 +1,4 @@
-package ds.tree;
+package ds.tree.bst;
 
 import ds.tree.printer.BinaryTreeInfo;
 import ds.tree.printer.BinaryTrees;
@@ -6,7 +6,6 @@ import edu.princeton.cs.algs4.StdOut;
 
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.function.BinaryOperator;
 
 /**
  * 二叉搜索树：

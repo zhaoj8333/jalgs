@@ -14,8 +14,8 @@ public class LinkedListReverse {
         sll.add("D");
         sll.add("E");
 
-//        SingleLinkedlist.Node<String> newHead = reverseListReversely(sll.first);
-        SingleLinkedlist.Node<String> newHead = reverseListByLoop(sll.first);
+        SingleLinkedlist.Node<String> newHead = reverseListReversely(sll.first);
+//        SingleLinkedlist.Node<String> newHead = reverseListByLoop(sll.first);
 
         StdOut.println(newHead);
 

@@ -101,7 +101,7 @@ public class ArrayListDemo2 {
 
         ArrayList<String> list1 = new ArrayList<>();
         list1 = (ArrayList<String>) list.clone();
-        list.set(1, "HELLO");
+        list.ds.set(1, "HELLO");
         System.out.println(list1);
         System.out.println();
         */
@@ -113,17 +113,17 @@ public class ArrayListDemo2 {
 
 //        ArrayList<Student> students1 = new ArrayList<>();
 //        students1 = (ArrayList<Student>) students.clone();
-//        students.set(1, new Student("BB", 11));
+//        students.ds.set(1, new Student("BB", 11));
 //        showList(students1);
 //        showList(students);
 
 //        ArrayList<Student> students1 = new ArrayList<>(students);
-//        students.set(1, new Student("BB", 11));
+//        students.ds.set(1, new Student("BB", 11));
 //        showList(students1);
 
 //        ArrayList<Student> students1 = new ArrayList<>();
 //        students1.addAll(students);
-//        students.set(1, new Student("BB", 11));
+//        students.ds.set(1, new Student("BB", 11));
 //        showList(students1);
 
     }
@@ -441,8 +441,8 @@ public class ArrayListDemo2 {
         list.add(new Student("D", 4));
         showList(list);
         /**
-         * set(int index, value)
-         *    public E set(int index, E element) {
+         * ds.set(int index, value)
+         *    public E ds.set(int index, E element) {
          *         rangeCheck(index);
          *
          *         E oldValue = elementData(index);

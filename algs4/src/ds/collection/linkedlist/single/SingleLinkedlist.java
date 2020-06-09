@@ -46,7 +46,7 @@ public class SingleLinkedlist<E> implements Iterable<E> {
 
         @Override
         public String toString() {
-            return "Node{" + item + ", " + next + '}';
+            return "Node{" + item + '}';
         }
     }
 
