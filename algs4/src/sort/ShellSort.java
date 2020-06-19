@@ -23,6 +23,7 @@ import java.util.Random;
  * @author allen
  */
 public class ShellSort {
+    /*
     public static void main(String[] args) {
 //        insertionSort();
         Random r = new Random();
@@ -34,6 +35,8 @@ public class ShellSort {
         sort(arr);
         StdOut.println(Arrays.toString(arr));
     }
+
+     */
 
     public static void sort(Comparable[] arr) {
     }

@@ -17,6 +17,7 @@ import java.util.Comparator;
         如果 2i+1 <+ n-1, 则左子节点编号为2i+1
         如果 2i+1 > n-1, 则无左子节点
  */
+@SuppressWarnings("all")
 public class BinaryHeap2<E> implements BinaryTreeInfo {
 
     private E[] elements;

@@ -73,6 +73,7 @@ public class InsertionSort extends Sortion {
         sort(arr);
     }
 
+    /*
     public static void main(String[] args) {
         Random random = new Random();
         int num = 200000;
@@ -103,11 +104,11 @@ public class InsertionSort extends Sortion {
         Assert.assertTrue(Sortion.isSorted(arr3));
         StdOut.println("optimize: " + sw.elapsedTime());
 
-        /*
             byMove: 61.961
             bySwap: 69.019
             optimize: 38.999
-         */
-
     }
+
+     */
+
 }

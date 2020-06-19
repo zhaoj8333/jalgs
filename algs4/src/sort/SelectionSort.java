@@ -58,6 +58,7 @@ public class SelectionSort extends Sortion {
         return arr;
     }
 
+    /*
     public static void main(String[] args) {
         Random random = new Random();
         int num   = 10;
@@ -70,9 +71,9 @@ public class SelectionSort extends Sortion {
 //        StdOut.println("arr-length: " + arr.length);
 //        StdOut.println("before: " + Arrays.toString(arr));
 
-        show(arr);
-        sort(arr);
-        show(arr);
+//        show(arr);
+//        sort(arr);
+//        show(arr);
         //        sort1(arr);
 //        StdOut.println("count 1 : " + count);
 //        String[] arr = generateString(10);
@@ -85,6 +86,8 @@ public class SelectionSort extends Sortion {
 //       冒泡排序 与 选择排序
 //       选择排序交换次数比较少，效率较高
     }
+
+     */
 
     public static void sort(Comparable[] arr) {
         int n = arr.length;

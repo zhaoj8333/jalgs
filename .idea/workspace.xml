@@ -1,73 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="186ae575-e702-4383-9a30-b6983f00426e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algs4/src/compare/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/heap/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/map/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/map/TreeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/map/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/set/ListSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/set/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/set/TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/set/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/HuffmanTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/AvlTree1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/AvlTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/AvlTree3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/BBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/RbNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinarySearchTreeAlgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTreeByLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTreeByRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTreePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BstIteratorByLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BstIteratorByRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RBtree1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/trie/Itrie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/trie/Trie1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/ds/trie/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/sort/ShellSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/sort/SortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4/src/sort/Sortion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/bit/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/graph/ListGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/graph/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/graph/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/string/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/trie/Trie2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURankPathCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURankPathHalving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURankPathSplitting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQUSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R_PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R_PH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R_PS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/sort/HeapSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/sort/HeapSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/sort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/sort/MergeSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algs4/src/exercises/sort/Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/american-english" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/american-english" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/PopCnt.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/basic/math/PopCnt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/hashset/HashSetDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/LinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/LinkedListReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Bubble.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/SortedSparseArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/SortedSparseArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/SparseArrayByArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/SparseArrayByArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/SparseArrayBySingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/exercises/bak/SparseArrayBySingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algs4/src/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/HeapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algs4/src/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algs4/src/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algs4/src/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Sortable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jalgs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jalgs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/ShellSort1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Sortion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/sort/Sortion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sortvis/libsortvis/sortable.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/libsortvis/sortable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,28 +124,28 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algs4/src/ds" />
+      <recent name="$PROJECT_DIR$/algs4/src" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="ds.map" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ds.tree.bst" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ds.uf.perfm" />
+      <recent name="ds.uf" />
+      <recent name="sort" />
       <recent name="ds.tree.bbst" />
       <recent name="ds.tree.bst" />
-      <recent name="tool" />
-      <recent name="ds.queue" />
-      <recent name="ds.collection.linkedlist.circle" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/algs4/src/ds" />
-      <recent name="$PROJECT_DIR$/algs4/src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ds.tree.bst" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -173,13 +161,13 @@
       <command value="dde-file-manager ." />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Trie1">
-    <configuration name="BinaryHeap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.heap.BinaryHeap2" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.uf.Main" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.heap.*" />
+          <option name="PATTERN" value="ds.uf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.map.hashmap.HashMap1" />
+    <configuration name="RbTree2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.tree.rbtree.RbTree2" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.map.hashmap.*" />
+          <option name="PATTERN" value="ds.tree.rbtree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.map.hashmap.HashMapDemo2" />
+    <configuration name="RbTree3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.tree.rbtree.RbTree3" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.map.hashmap.*" />
+          <option name="PATTERN" value="ds.tree.rbtree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.set.TreeSet" />
+    <configuration name="UnionFindQF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.uf.perfm.UnionFindQF" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.set.*" />
+          <option name="PATTERN" value="ds.uf.perfm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.trie.Trie1" />
+    <configuration name="UnionFindQUSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.uf.bak.UnionFindQUSize" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.trie.*" />
+          <option name="PATTERN" value="ds.uf.perfm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,19 +228,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TreeSet" />
-      <item itemvalue="Application.HashMapDemo2" />
-      <item itemvalue="Application.HashMap1" />
-      <item itemvalue="Application.BinaryHeap2" />
-      <item itemvalue="Application.Trie1" />
+      <item itemvalue="Application.UnionFindQUSize" />
+      <item itemvalue="Application.RbTree2" />
+      <item itemvalue="Application.RbTree3" />
+      <item itemvalue="Application.UnionFindQF" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Trie1" />
-        <item itemvalue="Application.BinaryHeap2" />
-        <item itemvalue="Application.HashMap1" />
-        <item itemvalue="Application.HashMapDemo2" />
-        <item itemvalue="Application.TreeSet" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UnionFindQF" />
+        <item itemvalue="Application.RbTree3" />
+        <item itemvalue="Application.RbTree2" />
+        <item itemvalue="Application.UnionFindQUSize" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +353,20 @@
       <workItem from="1591144267304" duration="18053000" />
       <workItem from="1591490498876" duration="1852000" />
       <workItem from="1591576369769" duration="17938000" />
-      <workItem from="1591663140415" duration="11248000" />
+      <workItem from="1591663140415" duration="11585000" />
+      <workItem from="1591676135580" duration="18411000" />
+      <workItem from="1591749103517" duration="8107000" />
+      <workItem from="1591757684209" duration="13145000" />
+      <workItem from="1591836037124" duration="1378000" />
+      <workItem from="1591841690394" duration="604000" />
+      <workItem from="1591922786915" duration="20558000" />
+      <workItem from="1592043382938" duration="622000" />
+      <workItem from="1592181500445" duration="8350000" />
+      <workItem from="1592268592583" duration="25775000" />
+      <workItem from="1592355333730" duration="23403000" />
+      <workItem from="1592475735587" duration="6000" />
+      <workItem from="1592528912950" duration="16288000" />
+      <workItem from="1592559139500" duration="10793000" />
     </task>
     <servers />
   </component>
@@ -386,38 +387,42 @@
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="584" y="202" key="#Deployment/50.0.1870.1080@50.0.1870.1080" timestamp="1587723512946" />
-    <state x="548" y="202" key="#Inspections" timestamp="1590110963409">
+    <state x="548" y="202" width="802" height="675" key="#Inspections" timestamp="1592549337358">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="548" y="202" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1590110963409" />
+    <state x="548" y="202" width="802" height="675" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1592549337358" />
     <state x="584" y="202" key="#Inspections/50.0.1870.1080@50.0.1870.1080" timestamp="1587558604863" />
+    <state x="559" y="202" width="802" height="723" key="#Intentions" timestamp="1592548019619">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="202" width="802" height="723" key="#Intentions/0.0.1920.1080@0.0.1920.1080" timestamp="1592548019619" />
     <state x="584" y="202" key="#Vim_Emulation" timestamp="1587558636417">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="584" y="202" key="#Vim_Emulation/50.0.1870.1080@50.0.1870.1080" timestamp="1587558636417" />
-    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590716013435">
+    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592387334040">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590716013435" />
+    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592387334040" />
     <state x="410" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589848235250" />
     <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588000882672">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1588000882672" />
-    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1591672218415">
+    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1592549447489">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1591672218415" />
+    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592549447489" />
     <state x="797" y="260" key="#com.intellij.ide.util.MemberChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1589711871291" />
     <state x="747" y="153" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1590132908033">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="747" y="153" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590132908033" />
     <state x="778" y="153" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1588810277083" />
-    <state x="747" y="419" width="425" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590320839874">
+    <state x="747" y="419" width="425" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592559397348">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="747" y="419" width="425" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1590320839874" />
+    <state x="747" y="419" width="425" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1592559397348" />
     <state x="519" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590665251333">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -426,14 +431,14 @@
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="722" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1587944040944" />
-    <state x="708" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590110965211">
+    <state x="708" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592270158786">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="708" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1590110965211" />
-    <state x="563" y="54" key="CommitChangelistDialog2" timestamp="1590719131971">
+    <state x="708" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1592270158786" />
+    <state x="563" y="54" key="CommitChangelistDialog2" timestamp="1591691447357">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="563" y="54" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1590719131971" />
+    <state x="563" y="54" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591691447357" />
     <state x="598" y="54" key="CommitChangelistDialog2/50.0.1870.1080@50.0.1870.1080" timestamp="1588053987289" />
     <state x="124" y="137" width="1715" height="880" key="DiffContextDialog" timestamp="1590740104318">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -445,45 +450,45 @@
     </state>
     <state x="741" y="298" width="426" height="482" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1590827822383" />
     <state x="772" y="298" width="426" height="595" key="FileChooserDialogImpl/50.0.1870.1080@50.0.1870.1080" timestamp="1589790411465" />
-    <state width="1918" height="980" key="GridCell.Tab.0.bottom" timestamp="1591673001549">
+    <state width="1918" height="1004" key="GridCell.Tab.0.bottom" timestamp="1592572222899">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1918" height="980" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591673001549" />
+    <state width="1918" height="1004" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592572222899" />
     <state width="1870" height="1016" key="GridCell.Tab.0.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837858" />
-    <state width="1918" height="980" key="GridCell.Tab.0.center" timestamp="1591673001548">
+    <state width="1918" height="1004" key="GridCell.Tab.0.center" timestamp="1592572222897">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1918" height="980" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591673001548" />
+    <state width="1918" height="1004" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592572222897" />
     <state width="1870" height="1016" key="GridCell.Tab.0.center/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837857" />
-    <state width="1918" height="980" key="GridCell.Tab.0.left" timestamp="1591673001547">
+    <state width="1918" height="1004" key="GridCell.Tab.0.left" timestamp="1592572222897">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1918" height="980" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591673001547" />
+    <state width="1918" height="1004" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592572222897" />
     <state width="1870" height="1016" key="GridCell.Tab.0.left/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837857" />
-    <state width="1918" height="980" key="GridCell.Tab.0.right" timestamp="1591673001548">
+    <state width="1918" height="1004" key="GridCell.Tab.0.right" timestamp="1592572222898">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1918" height="980" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591673001548" />
+    <state width="1918" height="1004" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592572222898" />
     <state width="1870" height="1016" key="GridCell.Tab.0.right/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837858" />
-    <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1591492350678">
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1592300369252">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591492350678" />
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592300369252" />
     <state width="1824" height="342" key="GridCell.Tab.1.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state width="1874" height="336" key="GridCell.Tab.1.center" timestamp="1591492350677">
+    <state width="1874" height="336" key="GridCell.Tab.1.center" timestamp="1592300369251">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591492350677" />
+    <state width="1874" height="336" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592300369251" />
     <state width="1824" height="342" key="GridCell.Tab.1.center/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state width="1874" height="336" key="GridCell.Tab.1.left" timestamp="1591492350677">
+    <state width="1874" height="336" key="GridCell.Tab.1.left" timestamp="1592300369251">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591492350677" />
+    <state width="1874" height="336" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592300369251" />
     <state width="1824" height="342" key="GridCell.Tab.1.left/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state width="1874" height="336" key="GridCell.Tab.1.right" timestamp="1591492350677">
+    <state width="1874" height="336" key="GridCell.Tab.1.right" timestamp="1592300369252">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591492350677" />
+    <state width="1874" height="336" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592300369252" />
     <state width="1824" height="342" key="GridCell.Tab.1.right/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
     <state x="572" y="278" key="IDE.errors.dialog" timestamp="1587904036322">
       <screen x="50" y="0" width="1870" height="1080" />
@@ -497,10 +502,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="794" y="169" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1589363902737" />
-    <state x="464" y="173" width="1026" height="843" key="SettingsEditor" timestamp="1590887126389">
+    <state x="464" y="173" width="1026" height="843" key="SettingsEditor" timestamp="1592547852362">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="464" y="173" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1590887126389" />
+    <state x="464" y="173" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1592547852362" />
     <state x="480" y="97" width="1026" height="843" key="SettingsEditor/50.0.1870.1080@50.0.1870.1080" timestamp="1589790413628" />
     <state x="559" y="277" key="Vcs.Push.Dialog.v2" timestamp="1590132923002">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -515,29 +520,33 @@
     </state>
     <state x="659" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1589957701811" />
     <state x="692" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/50.0.1870.1080@50.0.1870.1080" timestamp="1589853758933" />
-    <state x="762" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590719136621">
+    <state x="762" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592572280208">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="762" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1590719136621" />
+    <state x="762" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592572280208" />
     <state x="792" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/50.0.1870.1080@50.0.1870.1080" timestamp="1588810280840" />
     <state x="100" y="100" width="1720" height="880" key="dock-window-1" timestamp="1590661309947">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="100" y="100" width="1720" height="880" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1590661309947" />
-    <state x="690" y="298" key="extract.method.dialog" timestamp="1591598204281">
+    <state x="547" y="199" key="editAsTableFormatDialogDimension" timestamp="1592189713768">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="690" y="298" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591598204281" />
+    <state x="547" y="199" key="editAsTableFormatDialogDimension/0.0.1920.1080@0.0.1920.1080" timestamp="1592189713768" />
+    <state x="690" y="298" key="extract.method.dialog" timestamp="1592565000172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="298" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592565000172" />
     <state x="722" y="298" key="extract.method.dialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589278492558" />
-    <state x="322" y="88" key="new project wizard" timestamp="1590487129889">
+    <state x="322" y="88" key="new project wizard" timestamp="1592547826309">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="322" y="88" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1590487129889" />
+    <state x="322" y="88" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1592547826309" />
     <state x="364" y="88" key="new project wizard/50.0.1870.1080@50.0.1870.1080" timestamp="1588767074880" />
-    <state x="673" y="171" key="refactoring.ChangeSignatureDialog" timestamp="1590636280407">
+    <state x="673" y="171" key="refactoring.ChangeSignatureDialog" timestamp="1592184511945">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="673" y="171" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590636280407" />
+    <state x="673" y="171" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592184511945" />
     <state x="705" y="171" key="refactoring.ChangeSignatureDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589855771184" />
     <state x="615" y="248" width="672" height="677" key="run.anything.popup" timestamp="1590662817949">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -548,10 +557,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="559" y="202" key="scopes/0.0.1920.1080@0.0.1920.1080" timestamp="1590714614208" />
-    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup" timestamp="1591588256849">
+    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup" timestamp="1592537407115">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1591588256849" />
+    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592537407115" />
     <state x="648" y="239" width="672" height="678" key="search.everywhere.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1589858247066" />
     <state x="689" y="453" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590133217955">
       <screen x="0" y="0" width="1920" height="1080" />

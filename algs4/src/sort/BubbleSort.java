@@ -1,6 +1,6 @@
 package sort;
 
-import edu.princeton.cs.algs4.StdOut;
+import org.jetbrains.annotations.NotNull;
 
 import java.util.Arrays;
 import java.util.Random;
@@ -51,9 +51,9 @@ public class BubbleSort extends Sortion {
         arr3 = Arrays.copyOf(arr1, arr1.length);
 //        arr1 = new Integer[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         arr1 = new Integer[] {0, 4, 5, 1, 3, 10, 12, 14, 17, 19};
-        show(arr1);
-        sortOptimize(arr1);
-        show(arr1);
+//        show(arr1);
+//        sortOptimize(arr1);
+//        show(arr1);
 
     }
 
@@ -83,7 +83,7 @@ public class BubbleSort extends Sortion {
 //        sortOptimize(arr);
 //    }
 
-    public static void sort(Comparable[] arr) {
+    public static void sort(@NotNull Comparable[] arr) {
         int len = arr.length;
         int end = len;
         boolean isSorted = true;

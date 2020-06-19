@@ -167,7 +167,7 @@ public class BST<E extends Comparable<E>> implements BinaryTreeInfo {
      *     根节点的位置
      */
 
-     public void remove(E ele) {
+    public void remove(E ele) {
 
     }
 

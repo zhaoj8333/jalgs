@@ -246,7 +246,7 @@ public class RbTree2<E extends Comparable<E>> implements BinaryTreeInfo {
         }
         Integer[] data = new Integer[] {55, 87, 56, 74, 96, 22, 62, 20, 70, 68, 90, 50};
         for (int i = 0; i < data.length; i++) {
-            rb.put(data[i]);
+            rb.put(i);
         }
         StdOut.println();
         BinaryTrees.println(rb);
