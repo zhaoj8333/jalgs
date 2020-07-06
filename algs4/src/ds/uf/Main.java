@@ -1,23 +1,51 @@
 package ds.uf;
 
+import ds.uf.generic.Student;
+import ds.uf.generic.UnionFindGeneric1;
 import ds.uf.perfm.*;
+import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.Stopwatch;
 
 public class Main {
-    public static int count = 70000;
+    public static int count = 700000;
     private static Stopwatch sw = new Stopwatch();
     private static void reset() {
         sw = new Stopwatch();
     }
 
     public static void main(String[] args) {
-        qf();
-        qu();  // 快速union：优化接近一半的时间
-        qus(); // size优化： 大幅优化
-        qur(); // rank优化： 小幅优化
-        pc();  // 路径压缩： 小幅优化
-        ps();  // 路径分裂： 小幅优化
+//        qf();
+//        qu();  // 快速union：优化接近一半的时间
+//        qus(); // size优化： 大幅优化
+//        qur(); // rank优化： 小幅优化
+//        pc();  // 路径压缩： 小幅优化
+//        ps();  // 路径分裂： 小幅优化
         ph();  // 与路径分裂 相差无几
+//        gen();
+//        testGenPerm();
+    }
+
+    private static void testGenPerm() {
+        UnionFindGeneric1<Student> ufg = new UnionFindGeneric1<>();
+        reset();
+        System.out.println("quickUnion generics: " + sw.elapsedTime());
+    }
+
+    private static void gen() {
+        UnionFindGeneric1<Student> ufg = new UnionFindGeneric1<>();
+        Student a = new Student("a", 10, true);
+        Student b = new Student("b", 11, false);
+        Student c = new Student("c", 12, false);
+        Student d = new Student("d", 13, false);
+        ufg.makeSet(a);
+        ufg.makeSet(b);
+        ufg.makeSet(c);
+        ufg.makeSet(d);
+        ufg.union(a, b);
+        ufg.union(c, d);
+
+        StdOut.println(ufg.isSame(a, b));
+        StdOut.println(ufg.isSame(a, c));
     }
 
     private static void ph() {

@@ -13,8 +13,10 @@ public class UnionFindQU extends UnionFind {
    public int find(int index) {
         rangeCheck(index);
         while (index != parents[index]) {
+//            StdOut.println("index: " + index);
             index = parents[index];
         }
+
         return index;
    }
 
@@ -40,14 +42,42 @@ public class UnionFindQU extends UnionFind {
 
     public static void main(String[] args) {
         UnionFindQU uf = new UnionFindQU(10);
+
+        StdOut.print("index: ");
+        for (int i = 0; i < uf.parents.length; i++) {
+            StdOut.print(i + " ");
+        }
+        StdOut.println();
+        StdOut.print("value: ");
+        for (int i = 0; i < uf.parents.length; i++) {
+            StdOut.print(uf.parents[i] + " ");
+        }
+        StdOut.println();
+        StdOut.println("===========================");
+        StdOut.println();
+
         uf.union(0, 1);
         uf.union(0, 3);
         uf.union(0, 4);
-
         uf.union(2, 3);
         uf.union(2, 5);
-        StdOut.println(uf.isSame(2, 3));
-        StdOut.println(uf.isSame(0, 6));
 
+        StdOut.print("index: ");
+        for (int i = 0; i < uf.parents.length; i++) {
+            StdOut.print(i + " ");
+        }
+        StdOut.println();
+        StdOut.print("value: ");
+        for (int i = 0; i < uf.parents.length; i++) {
+            StdOut.print(uf.parents[i] + " ");
+        }
+        StdOut.println();
+        StdOut.println("===========================");
+
+        StdOut.println("root of 0: " + uf.find(0) + "\n");
+        // 5
+
+        StdOut.println("root value of 0: " + uf.parents[uf.find(0)]);
+        // 5
     }
 }

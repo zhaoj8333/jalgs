@@ -9,12 +9,12 @@ import java.util.Arrays;
  */
 public class UnionFindQU_R_PS extends UnionFindQU {
 
-    private int[] sizes;
+    private int[] ranks;
 
     public UnionFindQU_R_PS(int capacity) {
         super(capacity);
-        sizes = new int[capacity];
-        Arrays.fill(sizes, 1);
+        ranks = new int[capacity];
+        Arrays.fill(ranks, 1);
     }
 
     /**
@@ -39,14 +39,15 @@ public class UnionFindQU_R_PS extends UnionFindQU {
         if (pos1 == pos2) {
             return;
         }
-        if (sizes[pos1] < sizes[pos2]) {
+        if (ranks[pos1] < ranks[pos2]) {
             // pos1 并入 pos2
             parents[pos1] = pos2;
-            sizes[pos2]  += sizes[pos1];
-        } else {
+        } else if (ranks[pos1] > ranks[pos2]) {
             // pos2 并入 pos1
             parents[pos2] = pos1;
-            sizes[pos1]  += sizes[pos2];
+        } else {
+            parents[pos1] = pos2;
+            ranks[pos2] ++;
         }
     }
 

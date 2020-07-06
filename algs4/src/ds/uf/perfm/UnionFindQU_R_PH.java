@@ -9,16 +9,16 @@ import java.util.Arrays;
  */
 public class UnionFindQU_R_PH extends UnionFindQU {
 
-    private int[] sizes;
+    private int[] ranks;
 
     public UnionFindQU_R_PH(int capacity) {
         super(capacity);
-        sizes = new int[capacity];
-        Arrays.fill(sizes, 1);
+        ranks = new int[capacity];
+        Arrays.fill(ranks, 1);
     }
 
     /**
-     * 路径减半
+     * 路径减半: 使路径上每隔一个节点指向其祖父节点 parents[parents[index]]
      */
     @Override
     public int find(int index) {
@@ -36,14 +36,15 @@ public class UnionFindQU_R_PH extends UnionFindQU {
         if (pos1 == pos2) {
             return;
         }
-        if (sizes[pos1] < sizes[pos2]) {
+        if (ranks[pos1] < ranks[pos2]) {
             // pos1 并入 pos2
             parents[pos1] = pos2;
-            sizes[pos2]  += sizes[pos1];
-        } else {
+        } else if (ranks[pos1] > ranks[pos2]) {
             // pos2 并入 pos1
             parents[pos2] = pos1;
-            sizes[pos1]  += sizes[pos2];
+        } else {
+            parents[pos1] = pos2;
+            ranks[pos2] ++;
         }
     }
 

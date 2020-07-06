@@ -1,6 +1,7 @@
 package ds.uf.perfm;
 
 import ds.uf.UnionFind;
+import edu.princeton.cs.algs4.StdOut;
 
 public class UnionFindQU extends UnionFind {
     public UnionFindQU(int capacity) {
@@ -25,5 +26,6 @@ public class UnionFindQU extends UnionFind {
         }
         parents[pos1] = pos2;
     }
+
 
 }
