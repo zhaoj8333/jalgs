@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.StdOut;
 /**
  * @author allen
  */
-public class RecursionDemo1 {
+public class Recursion {
     /**
      * 递归：
      *     递： 调      满足递归条件时循环

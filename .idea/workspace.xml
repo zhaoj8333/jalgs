@@ -114,13 +114,13 @@
       <command value="dde-file-manager ." />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.graph.Main" />
+  <component name="RunManager" selected="Application.Knapsack">
+    <configuration name="CashExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.CashExchange" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.graph.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.uf.Main" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Fibonacci" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.uf.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.graph.Main" />
+    <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.Knapsack" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.graph.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RbTree3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.tree.rbtree.RbTree3" />
+    <configuration name="Pirate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.Pirate" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.tree.rbtree.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionFindGeneric2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.uf.generic.UnionFindGeneric2" />
+    <configuration name="Queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="back_track.Queens" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.uf.generic.*" />
+          <option name="PATTERN" value="back_track.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionFindQU (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.uf.bak.UnionFindQU" />
+    <configuration name="TailRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.TailRecursion" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.uf.bak.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,19 +194,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.UnionFindGeneric2" />
-      <item itemvalue="Application.UnionFindQU (1)" />
-      <item itemvalue="Application.RbTree3" />
+      <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="Application.CashExchange" />
+      <item itemvalue="Application.Pirate" />
+      <item itemvalue="Application.Queens" />
+      <item itemvalue="Application.TailRecursion" />
+      <item itemvalue="Application.Knapsack" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.RbTree3" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.UnionFindGeneric2" />
-        <item itemvalue="Application.UnionFindQU (1)" />
+        <item itemvalue="Application.Knapsack" />
+        <item itemvalue="Application.CashExchange" />
+        <item itemvalue="Application.Pirate" />
+        <item itemvalue="Application.Queens" />
+        <item itemvalue="Application.TailRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -368,10 +369,10 @@
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="584" y="202" key="#Deployment/50.0.1870.1080@50.0.1870.1080" timestamp="1587723512946" />
-    <state x="548" y="202" width="802" height="675" key="#Inspections" timestamp="1593412512680">
+    <state x="548" y="202" width="802" height="675" key="#Inspections" timestamp="1594864756608">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="548" y="202" width="802" height="675" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1593412512680" />
+    <state x="548" y="202" width="802" height="675" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1594864756608" />
     <state x="584" y="202" key="#Inspections/50.0.1870.1080@50.0.1870.1080" timestamp="1587558604863" />
     <state x="559" y="202" width="802" height="819" key="#Intentions" timestamp="1593918515735">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -386,10 +387,10 @@
     </state>
     <state x="542" y="123" key="#Vim_Emulation/0.0.1920.1080@0.0.1920.1080" timestamp="1593746046566" />
     <state x="584" y="202" key="#Vim_Emulation/50.0.1870.1080@50.0.1870.1080" timestamp="1587558636417" />
-    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593671730332">
+    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594169230943">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593671730332" />
+    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594169230943" />
     <state x="410" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589848235250" />
     <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588000882672">
       <screen x="50" y="0" width="1870" height="1080" />
@@ -399,10 +400,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="694" y="381" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592812066476" />
-    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1593997856764">
+    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1594865731698">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593997856764" />
+    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1594865731698" />
     <state x="797" y="260" key="#com.intellij.ide.util.MemberChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1589711871291" />
     <state x="747" y="153" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1590132908033">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -417,10 +418,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="747" y="419" width="425" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1592559397348" />
-    <state x="519" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590665251333">
+    <state x="519" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594108448812">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="519" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590665251333" />
+    <state x="519" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594108448812" />
     <state x="690" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1594001367031">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -445,45 +446,45 @@
     </state>
     <state x="741" y="298" width="426" height="482" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1590827822383" />
     <state x="772" y="298" width="426" height="595" key="FileChooserDialogImpl/50.0.1870.1080@50.0.1870.1080" timestamp="1589790411465" />
-    <state width="1916" height="986" key="GridCell.Tab.0.bottom" timestamp="1594002565514">
+    <state width="1920" height="1016" key="GridCell.Tab.0.bottom" timestamp="1594867181718">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1916" height="986" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594002565514" />
+    <state width="1920" height="1016" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594867181718" />
     <state width="1870" height="1016" key="GridCell.Tab.0.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837858" />
-    <state width="1916" height="986" key="GridCell.Tab.0.center" timestamp="1594002565514">
+    <state width="1920" height="1016" key="GridCell.Tab.0.center" timestamp="1594867181716">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1916" height="986" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594002565514" />
+    <state width="1920" height="1016" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594867181716" />
     <state width="1870" height="1016" key="GridCell.Tab.0.center/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837857" />
-    <state width="1916" height="986" key="GridCell.Tab.0.left" timestamp="1594002565513">
+    <state width="1920" height="1016" key="GridCell.Tab.0.left" timestamp="1594867181713">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1916" height="986" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594002565513" />
+    <state width="1920" height="1016" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594867181713" />
     <state width="1870" height="1016" key="GridCell.Tab.0.left/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837857" />
-    <state width="1916" height="986" key="GridCell.Tab.0.right" timestamp="1594002565514">
+    <state width="1920" height="1016" key="GridCell.Tab.0.right" timestamp="1594867181718">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1916" height="986" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594002565514" />
+    <state width="1920" height="1016" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594867181718" />
     <state width="1870" height="1016" key="GridCell.Tab.0.right/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837858" />
-    <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1593423485015">
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1594121583220">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593423485015" />
+    <state width="1874" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594121583220" />
     <state width="1824" height="342" key="GridCell.Tab.1.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state width="1874" height="336" key="GridCell.Tab.1.center" timestamp="1593423485015">
+    <state width="1874" height="336" key="GridCell.Tab.1.center" timestamp="1594121583219">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593423485015" />
+    <state width="1874" height="336" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594121583219" />
     <state width="1824" height="342" key="GridCell.Tab.1.center/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state width="1874" height="336" key="GridCell.Tab.1.left" timestamp="1593423485015">
+    <state width="1874" height="336" key="GridCell.Tab.1.left" timestamp="1594121583219">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593423485015" />
+    <state width="1874" height="336" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594121583219" />
     <state width="1824" height="342" key="GridCell.Tab.1.left/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state width="1874" height="336" key="GridCell.Tab.1.right" timestamp="1593423485015">
+    <state width="1874" height="336" key="GridCell.Tab.1.right" timestamp="1594121583219">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593423485015" />
+    <state width="1874" height="336" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594121583219" />
     <state width="1824" height="342" key="GridCell.Tab.1.right/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
     <state x="572" y="278" key="IDE.errors.dialog" timestamp="1587904036322">
       <screen x="50" y="0" width="1870" height="1080" />
@@ -528,20 +529,20 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="547" y="199" key="editAsTableFormatDialogDimension/0.0.1920.1080@0.0.1920.1080" timestamp="1592189713768" />
-    <state x="690" y="298" width="526" height="484" key="extract.method.dialog" timestamp="1593911338651">
+    <state x="690" y="298" width="526" height="484" key="extract.method.dialog" timestamp="1594866012049">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="690" y="298" width="526" height="484" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593911338651" />
+    <state x="690" y="298" width="526" height="484" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594866012049" />
     <state x="722" y="298" key="extract.method.dialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589278492558" />
     <state x="322" y="88" key="new project wizard" timestamp="1592880727587">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="322" y="88" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1592880727587" />
     <state x="364" y="88" key="new project wizard/50.0.1870.1080@50.0.1870.1080" timestamp="1588767074880" />
-    <state x="673" y="171" key="refactoring.ChangeSignatureDialog" timestamp="1593918640028">
+    <state x="673" y="171" key="refactoring.ChangeSignatureDialog" timestamp="1594108243127">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="673" y="171" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593918640028" />
+    <state x="673" y="171" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594108243127" />
     <state x="705" y="171" key="refactoring.ChangeSignatureDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589855771184" />
     <state x="615" y="248" width="672" height="677" key="run.anything.popup" timestamp="1592902686086">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -552,10 +553,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="559" y="202" key="scopes/0.0.1920.1080@0.0.1920.1080" timestamp="1590714614208" />
-    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup" timestamp="1593928417608">
+    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup" timestamp="1594689224610">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593928417608" />
+    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594689224610" />
     <state x="648" y="239" width="672" height="678" key="search.everywhere.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1589858247066" />
     <state x="689" y="453" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590133217955">
       <screen x="0" y="0" width="1920" height="1080" />
