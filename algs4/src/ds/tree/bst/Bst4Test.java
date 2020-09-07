@@ -67,12 +67,12 @@ public class Bst4Test<E> {
 
     private static void testMax() {
         StdOut.println("max loop     : " + bt4.max());
-        StdOut.println("max recursion: " + bt4.max0());
+        StdOut.println("max algs.recursion: " + bt4.max0());
     }
 
     private static void testMin() {
         StdOut.println("min loop     : " + bt4.min());
-        StdOut.println("min recursion: " + bt4.min0());
+        StdOut.println("min algs.recursion: " + bt4.min0());
     }
 
     public static void getComplete() {

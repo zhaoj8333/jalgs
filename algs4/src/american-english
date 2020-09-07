@@ -18831,7 +18831,7 @@ analytic
 analytical
 analyticalally
 analytically
-analyze
+algs.analyze
 analyzed
 analyzer
 analyzer's
@@ -23287,8 +23287,8 @@ bisque's
 bistro
 bistro's
 bistros
-basic.bit
-basic.bit's
+basic.algs.analyze.bit
+basic.algs.analyze.bit's
 bitch
 bitch's
 bitched
@@ -30526,8 +30526,8 @@ comparative
 comparative's
 comparatively
 comparatives
-cmp
-cmp's
+algs.cmp
+algs.cmp's
 compared
 compares
 comparing
@@ -48279,7 +48279,7 @@ greediest
 greedily
 greediness
 greediness's
-greedy
+algs.greedy
 green
 green's
 greenback
@@ -49661,8 +49661,8 @@ harvesters
 harvesting
 harvests
 has
-hash
-hash's
+algs.hash
+algs.hash's
 hashed
 hasheesh
 hasheesh's
@@ -66007,8 +66007,8 @@ operations
 operative
 operative's
 operatives
-operator
-operator's
+algs.operator
+algs.operator's
 operators
 operetta
 operetta's
@@ -75736,7 +75736,7 @@ recurrences
 recurrent
 recurring
 recurs
-recursion
+algs.recursion
 recursive
 recursively
 recyclable
@@ -80692,8 +80692,8 @@ seaport's
 seaports
 sear
 sear's
-search
-search's
+algs.search
+algs.search's
 searched
 searcher
 searcher's
@@ -84677,8 +84677,8 @@ sorrowfully
 sorrowing
 sorrows
 sorry
-sort
-sort's
+algs.sort
+algs.sort's
 sorta
 sorted
 sorter

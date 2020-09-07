@@ -1,11 +1,9 @@
 package ds.map.hashmap;
 
 import ds.map.Map;
-import ds.map.TreeMap;
 import ds.tree.printer.BinaryTreeInfo;
 import ds.tree.printer.BinaryTrees;
 import edu.princeton.cs.algs4.StdOut;
-import hash.Hash;
 
 import java.util.*;
 
@@ -106,7 +104,7 @@ public class HashMap1<K, V> implements Map<K, V> {
         if (equal) {
             return 0;
         }
-        // hash 相等，但是不equals
+        // algs.hash 相等，但是不equals
         // 比较类名
         if (k1 != null && k2 != null) {
             String k1Class = k1.getClass().getName();
@@ -507,8 +505,8 @@ public class HashMap1<K, V> implements Map<K, V> {
                 false: 1237
                 two sufficiently large arbitrary prime number
              */
-//            StdOut.println("bool hash: true " + Integer.toBinaryString(1231));  // 100 11001111
-//            StdOut.println("bool hash: false " + Integer.toBinaryString(1237)); // 100 11010101
+//            StdOut.println("bool algs.hash: true " + Integer.toBinaryString(1231));  // 100 11001111
+//            StdOut.println("bool algs.hash: false " + Integer.toBinaryString(1237)); // 100 11010101
             hash = hash * 31 + sexHash;
 //            31:  不仅符合2^n - 1, 而且是一个奇数， 有是 素数
 //            素数与其他数相乘的结果更容易产生唯一性，减少哈希冲突
@@ -595,7 +593,7 @@ public class HashMap1<K, V> implements Map<K, V> {
     private static void testHashcode() {
         Person p1 = new Person("aaa", 13, true);
         Person p2 = new Person("aaa", 13, true);
-        StdOut.println("p1 hash: " + p1.hashCode());
+        StdOut.println("p1 algs.hash: " + p1.hashCode());
         StdOut.println("p2 hahs: " + p2.hashCode());
         Map<Object, Object> map = new HashMap1<>();
         map.put(p1, "abc");

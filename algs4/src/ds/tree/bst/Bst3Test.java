@@ -1,6 +1,6 @@
 package ds.tree.bst;
 
-import cmp.Todo;
+import algs.cmp.Todo;
 import ds.tree.printer.BinaryTrees;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
@@ -57,7 +57,7 @@ public class Bst3Test {
         StdOut.println();
         Integer ele = 10;
         int rank = btr.rank(ele);
-        StdOut.println("recursion: " + ele + " 的排名为: " + rank);
+        StdOut.println("algs.recursion: " + ele + " 的排名为: " + rank);
 
         rank = btl.rank(ele);
         StdOut.println("loop     : " + ele + " 的排名为: " + rank);
@@ -67,7 +67,7 @@ public class Bst3Test {
         StdOut.println();
         int k = 7;
         Integer selectK = btr.select(k);
-        StdOut.println("recursion: 排名为 " + k + " 的键为： " + selectK);
+        StdOut.println("algs.recursion: 排名为 " + k + " 的键为： " + selectK);
 
         Integer selectL = btl.select(k);
         StdOut.println("loop     : 排名为 " + k + " 的键为： " + selectL);
@@ -87,8 +87,8 @@ public class Bst3Test {
         StdOut.println();
         Node<Integer> floor = btr.floor(10);
         Node<Integer> ceil  = btr.ceil( 10);
-        StdOut.println("floor by recursion: " + floor);
-        StdOut.println("ceil  by recursion: " + ceil);
+        StdOut.println("floor by algs.recursion: " + floor);
+        StdOut.println("ceil  by algs.recursion: " + ceil);
     }
 
     public static void testPrevAndSucc() {
@@ -100,8 +100,8 @@ public class Bst3Test {
         StdOut.println();
 //        floor = btr.floor(10);
 //        ceil  = btr.ceil(10);
-//        StdOut.println("floor by recursion: " + floor);
-//        StdOut.println("ceil  by recursion: " + ceil);
+//        StdOut.println("floor by algs.recursion: " + floor);
+//        StdOut.println("ceil  by algs.recursion: " + ceil);
     }
 
     @Todo
@@ -143,7 +143,7 @@ public class Bst3Test {
 
     public static void testHeight() {
         int height = btr.depth();
-        StdOut.println("recursion: " + height);
+        StdOut.println("algs.recursion: " + height);
 
         height = btl.depth();
         StdOut.println("loop     : " + height);
@@ -254,8 +254,8 @@ public class Bst3Test {
     }
 
     public static void testMin() {
-        StdOut.println("recursion min : " + btr.min());
-        StdOut.println("recursion max : " + btr.max());
+        StdOut.println("algs.recursion min : " + btr.min());
+        StdOut.println("algs.recursion max : " + btr.max());
         StdOut.println();
         StdOut.println("loop min : " + btl.min());
         StdOut.println("loop max : " + btl.max());
@@ -291,11 +291,11 @@ public class Bst3Test {
                 btr.put(integer);
             }
         }
-        StdOut.println("recursion: " + st.elapsedTime());
+        StdOut.println("algs.recursion: " + st.elapsedTime());
         /*
         1000000
         loop: 0.97
-        recursion: 0.995
+        algs.recursion: 0.995
 
         非递归方式有稍微性能优势
          */

@@ -13,11 +13,11 @@ public class HashMapDemo2 {
 
     private static void hashFunc() {
 //        hash函数：
-//        public int hash(Object key) {
+//        public int algs.hash(Object key) {
 //            return hash_code(key) % table.length;
 //        }
 //        为了提高效率：前提是数组长度设计为 2^n(0111 1111)
-//        public int hash(Object key) {
+//        public int algs.hash(Object key) {
 //            return hash_code(key) & (table.length - 1);
 //        }
 //        良好的hash函数：

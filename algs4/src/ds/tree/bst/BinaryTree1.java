@@ -3,12 +3,12 @@ package ds.tree.bst;
 /**
  * trees are hierarchical data structures
  *     trees:
- *     1. provide moderate access/search, quicker than linkedlist but slower than array
+ *     1. provide moderate access/algs.search, quicker than linkedlist but slower than array
  *     2. provide moderate insertion/deletion(quicker than array but slower than linkedlist)
  *     3. do not have an upper limit on number of nodes and nodes are linked using pointers
  *
  * application:
- *     hierarchical data, search, sorted list, router algs, decision making
+ *     hierarchical data, algs.search, sorted list, router algs, decision making
  */
 
 public class BinaryTree1 {

@@ -5,7 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="186ae575-e702-4383-9a30-b6983f00426e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/american-english" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/american-english" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/analyze/DoublingRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/analyze/DoublingRatio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/analyze/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/analyze/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/bit/SignOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/basic/bit/SignOfInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/bit/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bit/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/bt/EightQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bt/EightQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/bt/FourQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bt/FourQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/bt/Queens.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bt/Queens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/bt/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bt/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/cmp/SortCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/cmp/SortCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/cmp/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/cmp/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/dc/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dc/MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/dc/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dc/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/dp/BigNumberMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dp/BigNumberMultiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dp/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/dp/CoinExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dp/CoinExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/dp/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dp/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree4.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/greedy/CashExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/greedy/CashExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/greedy/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/greedy/Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/greedy/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/greedy/Pirate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/greedy/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/greedy/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/hash/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/hash/Hash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/hash/HashConflictTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/hash/HashConflictTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/hash/HashmapHashcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/hash/HashmapHashcode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/operator/Xor.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/operator/Xor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/ClimbStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/Hanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/NoneRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/NoneRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/TailRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/TailRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/search/BinarySearch_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/search/BinarySearch_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/SortDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/SortDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Sortion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/Sortion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/string_match/StringMatchExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/string_match/StringMatchExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortvis/libsortvis/algos/bitonicsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/libsortvis/algos/bitonicsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortvis/libsortvis/algos/timsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/libsortvis/algos/timsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortvis/libsortvis/sortable.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/libsortvis/sortable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortvis/sortvis" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/sortvis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortvis/test/test_sortable.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/test/test_sortable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,11 +174,11 @@
   </component>
   <component name="RunManager" selected="Application.CoinChange">
     <configuration name="CashExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.CashExchange" />
+      <option name="MAIN_CLASS_NAME" value="algs.greedy.CashExchange" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="greedy.*" />
+          <option name="PATTERN" value="algs.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +187,11 @@
       </method>
     </configuration>
     <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.ClimbStairs" />
+      <option name="MAIN_CLASS_NAME" value="algs.recursion.ClimbStairs" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="algs.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +200,11 @@
       </method>
     </configuration>
     <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.CoinChange" />
+      <option name="MAIN_CLASS_NAME" value="algs.dp.CoinChange" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="algs.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +213,11 @@
       </method>
     </configuration>
     <configuration name="CoinExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.CoinExchange" />
+      <option name="MAIN_CLASS_NAME" value="algs.dp.CoinExchange" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="algs.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +226,11 @@
       </method>
     </configuration>
     <configuration name="Fibonacci" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="algs.recursion.Fibonacci" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="algs.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +239,11 @@
       </method>
     </configuration>
     <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dc.MaximumSubarray" />
+      <option name="MAIN_CLASS_NAME" value="algs.dc.MaximumSubarray" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dc.*" />
+          <option name="PATTERN" value="algs.dc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,6 +393,7 @@
       <workItem from="1592528912950" duration="16288000" />
       <workItem from="1592559139500" duration="11021000" />
       <workItem from="1592610939798" duration="379000" />
+      <workItem from="1599484316000" duration="530000" />
     </task>
     <task id="LOCAL-00001" summary="union find">
       <created>1592572301347</created>

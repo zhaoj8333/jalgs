@@ -19,7 +19,7 @@ public class SignOfInteger {
 
     /**
      *  get the sign of v by comparison and branching
-     *   char basic.bit
+     *   char basic.algs.analyze.bit
      *
      */
     private static int getSign1(int v) {

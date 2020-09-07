@@ -89,8 +89,8 @@ public class HashMapDemo1 {
         int i = 16;
         int hash = o.hashCode();
         System.out.println("i:    " + Integer.toBinaryString(i - 1));
-        System.out.println("hash: " + Integer.toBinaryString(hash));
-        System.out.println("hash: " + hash);
+        System.out.println("algs.hash: " + Integer.toBinaryString(hash));
+        System.out.println("algs.hash: " + hash);
         System.out.println("%:    " + (hash % i));
         System.out.println("&:    " + ((i - 1) & hash)); // 1
 //      当i为2的n次幂时: 相当于对数组长度取余
@@ -99,19 +99,19 @@ public class HashMapDemo1 {
             o == "a"
 
             i - 1: 00000000 00000000 00000000 00001111
-            hash:  00000000 00000000 00000000 01100001
+            algs.hash:  00000000 00000000 00000000 01100001
             &:
                    00000000 00000000 00000000 00000001
          */
         /*
             i - 1: 00000000 00000000 00000000 00001111
-            hash:  00111101 00000011 00010010 11111001
+            algs.hash:  00111101 00000011 00010010 11111001
             &:     00000000 00000000 00000000 00001001  9
          */
 
         /*
             为何hashmap长度总是2的n次幂，因为hash & (table.length - 1)来得到该对象
-            的保存位。 hash & (table.length - 1)运算等价于对length取模，也即是 hash % length
+            的保存位。 algs.hash & (table.length - 1)运算等价于对length取模，也即是 algs.hash % length
          */
     }
 
@@ -256,34 +256,34 @@ public class HashMapDemo1 {
         //   2的n次幂原因：
         //      添加元素时，需要根据hash值，去确定其在数组中的位置。
         //      hashmap为了存取高效，要尽量减少碰撞，也就是尽量把数据分配均匀，每个链表长度大致相同，也即是说把数据存到哪个链表
-        //      该算法实际上就是取模,hash % length,计算机中直接求余不如位运算效率高，所以源码中做了优化
-        //      hash&(length - 1)，而实际上hash % length等于hash&(length - 1)前提是length = 2的n次幂
+        //      该算法实际上就是取模,algs.hash % length,计算机中直接求余不如位运算效率高，所以源码中做了优化
+        //      algs.hash&(length - 1)，而实际上hash % length等于hash&(length - 1)前提是length = 2的n次幂
         //
         // 为何该方法可以减少hash碰撞????
         // 按位与
-        // hash & (length - 1)如何减少hash碰撞??
+        // algs.hash & (length - 1)如何减少hash碰撞??
         System.out.println((3 & (8 - 1)));
         /**
-         * hash: 3 长度 8
+         * algs.hash: 3 长度 8
          * 0000 0011  3
          * 0000 0111  7
          *----------------
          * 0000 0011  3
          * ================
-         * hash: 2
+         * algs.hash: 2
          * 0000 0010
          * 0000 0111
          * --------------
          * 0000 0010  2
          *
          * 如果长度不是2的n次幂
-         * hash: 3 长度 9
+         * algs.hash: 3 长度 9
          * 0000 0011  3
          * 0000 1000  8
          * ----------------
          * 0000 0000  0
          * ================
-         * hash: 2
+         * algs.hash: 2
          * 0000 0010  2
          * 0000 1000  8
          * --------------
