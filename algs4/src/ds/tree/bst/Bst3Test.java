@@ -1,12 +1,11 @@
 package ds.tree.bst;
 
-import compare.Todo;
+import cmp.Todo;
 import ds.tree.printer.BinaryTrees;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.Stopwatch;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 /**

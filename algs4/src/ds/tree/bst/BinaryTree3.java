@@ -1,6 +1,6 @@
 package ds.tree.bst;
 
-import compare.Todo;
+import cmp.Todo;
 import ds.tree.printer.BinaryTreeInfo;
 import ds.tree.printer.BinaryTrees;
 import edu.princeton.cs.algs4.StdOut;

@@ -1,6 +1,6 @@
 package ds.tree.bst;
 
-import compare.Todo;
+import cmp.Todo;
 import ds.tree.printer.BinaryTreeInfo;
 import java.util.ArrayList;
 import java.util.LinkedList;

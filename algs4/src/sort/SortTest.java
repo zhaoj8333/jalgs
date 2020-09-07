@@ -119,26 +119,26 @@ public class SortTest {
         }
 
         StdOut.println("bubble   : avg time: " + (bubbleDuration / testTimes));
-//        Assert.assertTrue(Sortion.isSorted(bubble));
+        Assert.assertTrue(Sortion.isSorted(bubble));
 
         StdOut.println("insert   : avg time: " + (insertionDuration / testTimes));
-//        Assert.assertTrue(Sortion.isSorted(insertion));
+        Assert.assertTrue(Sortion.isSorted(insertion));
         StdOut.println("select   : avg time: " + (selectionDuration / testTimes));
-//        Assert.assertTrue(Sortion.isSorted(selection));
+        Assert.assertTrue(Sortion.isSorted(selection));
         StdOut.println("shell    : avg time: " + (shellDuration / testTimes));
-//        Assert.assertTrue(Sortion.isSorted(merge));
+        Assert.assertTrue(Sortion.isSorted(merge));
 //        StdOut.println("quick    : avg time: " + (quickDuration / testTimes));
         StdOut.println("heap     : avg time: " + (heapDuration / testTimes));
 //        StdOut.println("heap: " + Arrays.toString(heap));
-//        Assert.assertTrue(Sortion.isSorted(heap));
+        Assert.assertTrue(Sortion.isSorted(heap));
         StdOut.println("merge    : avg time: " + (mergeDuration / testTimes));
-//        Assert.assertTrue(Sortion.isSorted(merge));
+        Assert.assertTrue(Sortion.isSorted(merge));
 
     }
 
     public static void main(String[] args) {
         SortTest sort = new SortTest();
-        sort.test(5, 30000);
+        sort.test(5, 10000);
 //        StdOut.println("merge    : " + Arrays.toString(merge));
     }
 }

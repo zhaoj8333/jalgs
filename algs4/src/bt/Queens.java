@@ -1,4 +1,4 @@
-package back_track;
+package bt;
 
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.Stopwatch;

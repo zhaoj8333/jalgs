@@ -80,11 +80,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algs4/src/ds" />
+      <recent name="$PROJECT_DIR$/algs4/src" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="ds.map" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ds.tree.bst" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly" />
@@ -96,9 +97,8 @@
       <recent name="sort" />
       <recent name="ds.tree.bbst" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/algs4/src/ds" />
-      <recent name="$PROJECT_DIR$/algs4/src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ds.tree.bst" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -114,13 +114,52 @@
       <command value="dde-file-manager ." />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Knapsack">
+  <component name="RunManager" selected="Application.CoinChange">
     <configuration name="CashExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greedy.CashExchange" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.ClimbStairs" />
+      <module name="jalgs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.CoinChange" />
+      <module name="jalgs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.CoinExchange" />
+      <module name="jalgs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,51 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.Knapsack" />
+    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dc.MaximumSubarray" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pirate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.Pirate" />
-      <module name="jalgs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="back_track.Queens" />
-      <module name="jalgs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="back_track.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TailRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.TailRecursion" />
-      <module name="jalgs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="dc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,18 +196,18 @@
     <list>
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.CashExchange" />
-      <item itemvalue="Application.Pirate" />
-      <item itemvalue="Application.Queens" />
-      <item itemvalue="Application.TailRecursion" />
-      <item itemvalue="Application.Knapsack" />
+      <item itemvalue="Application.ClimbStairs" />
+      <item itemvalue="Application.CoinChange" />
+      <item itemvalue="Application.CoinExchange" />
+      <item itemvalue="Application.MaximumSubarray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Knapsack" />
+        <item itemvalue="Application.CoinChange" />
+        <item itemvalue="Application.CoinExchange" />
+        <item itemvalue="Application.ClimbStairs" />
+        <item itemvalue="Application.MaximumSubarray" />
         <item itemvalue="Application.CashExchange" />
-        <item itemvalue="Application.Pirate" />
-        <item itemvalue="Application.Queens" />
-        <item itemvalue="Application.TailRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -365,14 +365,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="670" y="192" width="571" height="693" key="#BinaryTree3/0.0.1920.1080@0.0.1920.1080" timestamp="1589330285877" />
+    <state x="674" y="193" key="#CashExchange" timestamp="1595041683696">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="674" y="193" key="#CashExchange/0.0.1920.1080@0.0.1920.1080" timestamp="1595041683696" />
     <state x="584" y="202" key="#Deployment" timestamp="1587723512946">
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="584" y="202" key="#Deployment/50.0.1870.1080@50.0.1870.1080" timestamp="1587723512946" />
-    <state x="548" y="202" width="802" height="675" key="#Inspections" timestamp="1594864756608">
+    <state x="548" y="202" width="802" height="675" key="#Inspections" timestamp="1594878892514">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="548" y="202" width="802" height="675" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1594864756608" />
+    <state x="548" y="202" width="802" height="675" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1594878892514" />
     <state x="584" y="202" key="#Inspections/50.0.1870.1080@50.0.1870.1080" timestamp="1587558604863" />
     <state x="559" y="202" width="802" height="819" key="#Intentions" timestamp="1593918515735">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -387,10 +391,10 @@
     </state>
     <state x="542" y="123" key="#Vim_Emulation/0.0.1920.1080@0.0.1920.1080" timestamp="1593746046566" />
     <state x="584" y="202" key="#Vim_Emulation/50.0.1870.1080@50.0.1870.1080" timestamp="1587558636417" />
-    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594169230943">
+    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595840933368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594169230943" />
+    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595840933368" />
     <state x="410" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589848235250" />
     <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588000882672">
       <screen x="50" y="0" width="1870" height="1080" />
@@ -418,6 +422,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="747" y="419" width="425" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1592559397348" />
+    <state x="747" y="447" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1595498349407">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="447" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080@0.0.1920.1080" timestamp="1595498349407" />
     <state x="519" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594108448812">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -446,25 +454,25 @@
     </state>
     <state x="741" y="298" width="426" height="482" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1590827822383" />
     <state x="772" y="298" width="426" height="595" key="FileChooserDialogImpl/50.0.1870.1080@50.0.1870.1080" timestamp="1589790411465" />
-    <state width="1920" height="1016" key="GridCell.Tab.0.bottom" timestamp="1594867181718">
+    <state width="1918" height="986" key="GridCell.Tab.0.bottom" timestamp="1595984548027">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1920" height="1016" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594867181718" />
+    <state width="1918" height="986" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595984548027" />
     <state width="1870" height="1016" key="GridCell.Tab.0.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837858" />
-    <state width="1920" height="1016" key="GridCell.Tab.0.center" timestamp="1594867181716">
+    <state width="1918" height="986" key="GridCell.Tab.0.center" timestamp="1595984548025">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1920" height="1016" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594867181716" />
+    <state width="1918" height="986" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595984548025" />
     <state width="1870" height="1016" key="GridCell.Tab.0.center/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837857" />
-    <state width="1920" height="1016" key="GridCell.Tab.0.left" timestamp="1594867181713">
+    <state width="1918" height="986" key="GridCell.Tab.0.left" timestamp="1595984548024">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1920" height="1016" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594867181713" />
+    <state width="1918" height="986" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595984548024" />
     <state width="1870" height="1016" key="GridCell.Tab.0.left/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837857" />
-    <state width="1920" height="1016" key="GridCell.Tab.0.right" timestamp="1594867181718">
+    <state width="1918" height="986" key="GridCell.Tab.0.right" timestamp="1595984548026">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1920" height="1016" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594867181718" />
+    <state width="1918" height="986" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595984548026" />
     <state width="1870" height="1016" key="GridCell.Tab.0.right/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837858" />
     <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1594121583220">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -494,6 +502,10 @@
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state x="646" y="166" key="NewModule_or_Project.wizard/50.0.1870.1080@50.0.1870.1080" timestamp="1588839995788" />
+    <state x="590" y="405" width="732" height="268" key="Performance.Activity.Monitor" timestamp="1595033118258">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="590" y="405" width="732" height="268" key="Performance.Activity.Monitor/0.0.1920.1080@0.0.1920.1080" timestamp="1595033118258" />
     <state x="794" y="169" key="RollbackChangesDialog" timestamp="1589363902737">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -511,6 +523,10 @@
       <screen x="50" y="0" width="1870" height="1080" />
     </state>
     <state width="1640" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction/50.0.1870.1080@50.0.1870.1080" timestamp="1588171049490" />
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595765386785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595765386785" />
     <state x="659" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589957701811">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -539,10 +555,10 @@
     </state>
     <state x="322" y="88" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1592880727587" />
     <state x="364" y="88" key="new project wizard/50.0.1870.1080@50.0.1870.1080" timestamp="1588767074880" />
-    <state x="673" y="171" key="refactoring.ChangeSignatureDialog" timestamp="1594108243127">
+    <state x="673" y="171" key="refactoring.ChangeSignatureDialog" timestamp="1595841772434">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="673" y="171" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594108243127" />
+    <state x="673" y="171" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595841772434" />
     <state x="705" y="171" key="refactoring.ChangeSignatureDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589855771184" />
     <state x="615" y="248" width="672" height="677" key="run.anything.popup" timestamp="1592902686086">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -553,10 +569,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="559" y="202" key="scopes/0.0.1920.1080@0.0.1920.1080" timestamp="1590714614208" />
-    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup" timestamp="1594689224610">
+    <state x="609" y="142" width="690" height="876" key="search.everywhere.popup" timestamp="1595932048720">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="239" width="690" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594689224610" />
+    <state x="609" y="142" width="690" height="876" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1595932048720" />
     <state x="648" y="239" width="672" height="678" key="search.everywhere.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1589858247066" />
     <state x="689" y="453" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590133217955">
       <screen x="0" y="0" width="1920" height="1080" />

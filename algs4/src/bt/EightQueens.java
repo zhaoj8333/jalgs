@@ -1,4 +1,4 @@
-package back_track;
+package bt;
 
 /**
  * 八皇后问题：

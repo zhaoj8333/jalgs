@@ -1,4 +1,4 @@
-package back_track;
+package bt;
 
 /**
  * 回溯法 解决 四皇后问题

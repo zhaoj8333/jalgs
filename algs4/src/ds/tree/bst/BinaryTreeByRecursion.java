@@ -1,8 +1,6 @@
 package ds.tree.bst;
 
-import compare.Todo;
 import ds.tree.printer.BinaryTreeInfo;
-import edu.princeton.cs.algs4.StdOut;
 
 import java.util.LinkedList;
 import java.util.Queue;

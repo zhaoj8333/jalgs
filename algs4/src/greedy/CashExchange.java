@@ -26,11 +26,40 @@ public class CashExchange {
 //        change(faces);
         faces = new Integer[]{25, 20, 5, 1};
         change(faces, 41);
+        faces = new Integer[] {11, 19, 7, 4, 2};
+        change1(faces, 51);
+    }
 
+    private static void change1(Integer[] faces, int money) {
+        Arrays.sort(faces);
+        StdOut.println(Arrays.toString(faces));
+        int coinCount = 0, index = faces.length - 1;
+        while (index >= 0) {
+            while (money >= faces[index]) {
+                money -= faces[index];
+                coinCount++;
+                StdOut.print(faces[index] + " ");
+                // 19 19 11 2
+            }
+            index--;
+        }
+        StdOut.println();
+        StdOut.println("硬币数量:" + coinCount);
     }
 
     private static void change(Integer[] faces, int money) {
-
+        Arrays.sort(faces);
+        StdOut.println(Arrays.toString(faces));
+        int coins = 0, idx = faces.length - 1;
+        while (idx >= 0) {
+            while (money >= faces[idx]) {
+                System.out.println("---- " + faces[idx]);
+                money -= faces[idx];
+                coins++;
+            }
+            idx--;
+        }
+        StdOut.println(coins);
     }
 
     private static void change(Integer[] faces) {

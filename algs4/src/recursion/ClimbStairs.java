@@ -19,7 +19,7 @@ public class ClimbStairs {
      *     就是一个斐波那契数列，只是初始值不一样
      */
     public static void main(String[] args) {
-        int n = 40;
+        int n = 10;
         StdOut.println("climb : " + climb(n));
         StdOut.println("climb1: " + climb1(n));
     }

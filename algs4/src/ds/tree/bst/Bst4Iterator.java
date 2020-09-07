@@ -1,6 +1,6 @@
 package ds.tree.bst;
 
-import compare.Todo;
+import cmp.Todo;
 import edu.princeton.cs.algs4.StdOut;
 import java.util.ArrayList;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package compare;
+package cmp;
 
 public @interface Todo {
 
