@@ -1,184 +1,321 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="186ae575-e702-4383-9a30-b6983f00426e" name="Default Changelist" comment="">
+    <list default="true" id="079bed2a-d795-4274-a049-3f288681feb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/compress/StringCompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/CoinChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/lp/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/lru/LruCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/lru/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/PseudoRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/FastFail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/game/GameEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/game/ScoreBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/sparse/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/bloom_filter/BloomFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListOptimization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/StaticLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/LinkedHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/sequence/BruteForce1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/sequence/BruteForce2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/sequence/Kmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/sequence/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/skip_list/SkipList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Bst5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Node5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RbTree4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/CharCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/LastWordLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/NestingLevelOfBraces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l628/MaxiumProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l75/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l88/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/american-english" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/american-english" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/analyze/DoublingRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/analyze/DoublingRatio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/analyze/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/analyze/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/bit/SignOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/basic/bit/SignOfInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/bit/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bit/Swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/bt/EightQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bt/EightQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/bt/FourQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bt/FourQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/bt/Queens.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bt/Queens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/bt/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/bt/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/cmp/SortCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/cmp/SortCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/cmp/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/cmp/Todo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/dc/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dc/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/dc/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dc/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/dp/BigNumberMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dp/BigNumberMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dp/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/dp/CoinExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dp/CoinExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/dp/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/dp/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree4.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/greedy/CashExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/greedy/CashExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/greedy/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/greedy/Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/greedy/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/greedy/Pirate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/greedy/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/greedy/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/hash/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/hash/Hash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/hash/HashConflictTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/hash/HashConflictTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/hash/HashmapHashcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/hash/HashmapHashcode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/operator/Xor.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/operator/Xor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/ClimbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/Hanoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/NoneRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/NoneRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/recursion/TailRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/recursion/TailRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/search/BinarySearch_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/search/BinarySearch_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/SortDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/SortDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/SortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/sort/Sortion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/sort/Sortion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/string_match/StringMatchExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algs4/src/algs/string_match/StringMatchExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortvis/libsortvis/algos/bitonicsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/libsortvis/algos/bitonicsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortvis/libsortvis/algos/timsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/libsortvis/algos/timsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortvis/libsortvis/sortable.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/libsortvis/sortable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortvis/sortvis" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/sortvis" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortvis/test/test_sortable.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortvis/test/test_sortable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/algs4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/lib/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/lib/commons-io-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/lib/junit-4.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/analyze/DoublingRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/analyze/DoublingRatio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/analyze/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/analyze/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bit/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bit/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bt/EightQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bt/EightQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bt/FourQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bt/FourQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bt/Queens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bt/Queens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bt/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bt/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/cmp/SortCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/cmp/Todo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dc/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dc/MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dc/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dc/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dp/BigNumberMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/BigNumberMultiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dp/CoinExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/CoinExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dp/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/greedy/CashExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/greedy/CashExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/greedy/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/greedy/Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/greedy/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/greedy/Pirate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/greedy/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/greedy/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/hash/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/hash/Hash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/hash/HashConflictTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/hash/HashConflictTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/hash/HashmapHashcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/hash/HashmapHashcode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/operator/Xor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/operator/Xor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/ClimbStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/Hanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/NoneRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/NoneRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/TailRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/TailRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/search/BinarySearch_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/SortDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/SortDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/Sortion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/Sortion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/algs/string_match/StringMatchExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/american-english" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/american-english" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/StdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/BaseDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/BaseDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/Flips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/Flips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/FlipsMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/FlipsMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/Interval2DTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/Interval2DTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/Rools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/Rools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/bit/SignOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/bit/SignOfInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/HammingDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/math/HammingDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/IntCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/math/IntCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/PopCnt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/math/PopCnt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/ArrayAndArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/ArrayAndArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/ArrayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/ArrayListInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/CircularArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/CircularArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/ResizableArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/ResizableArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/sparse/Gomoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/sparse/Gomoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/sparse/SparseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/sparse/SparseArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/sparse/SparseArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/bag/BaseBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/bag/BaseBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/bag/BaseBagTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/CollectionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/CollectionThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/circle/DoublyCircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/circle/DoublyCircularLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/circle/SingleCircularLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/circle/SingleCircularLinkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/doubly/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/doubly/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/josephus/ByDoublyCircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/josephus/ByDoublyCircularLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/CycleDetect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/CycleDetect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/LinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/LinkedListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/SingleLinkedListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/SingleLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/SingleLinkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/VirtualHeadNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/common/JdbcUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/common/JdbcUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/common/Skill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/common/Skill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/common/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/common/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/ds.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/ds.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/ListGraph1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/ListGraph2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/ListGraph3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/MinHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/HashMapTS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/TreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/TreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/hashmap/HashMap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/hashmap/HashMapDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/hashmap/HashMapDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayDeQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/ArrayDeQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/CircularArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/CircularArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/QueueByDoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/QueueByDoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/QueueByStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/QueueByStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ResizableArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/ResizableArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ResizableCircleDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/ResizableCircleDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/IntQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/LinkListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/bak/LinkListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/LinkListQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/MyLoopQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/bak/MyLoopQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/bak/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/TestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/bak/TestQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/pakcage-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/pakcage-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/set/ListSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/set/ListSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/set/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/set/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/set/TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/set/TreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/set/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/set/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/app/DijkstraEvaluate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/app/EvaluateBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/app/EvaluateBrackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/ChangeableCapacityStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/ChangeableCapacityStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/ChangeableCapacityStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/DownwardStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/FixedCapacityStackOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/FixedCapacityStackOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/FixedCapacityStackOfStringsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/LinkListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/LinkListStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/LinkListStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/MyStack1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/TestMyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/TestMyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/by/StackByArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/by/StackByArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/string/Alphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/string/Alphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/HuffmanTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/HuffmanTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/AvlTree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/AvlTree1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/AvlTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/AvlTree2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/AvlTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/AvlTree3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/BBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/BBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/RbNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/RbNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinarySearchTreeAlgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinarySearchTreeAlgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTreeByLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTreeByLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTreeByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTreeByRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTreePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTreePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Bst3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Bst4Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Bst4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BstIteratorByLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BstIteratorByLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BstIteratorByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BstIteratorByRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/BinaryTreeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/BinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/BinaryTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/InorderPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/InorderPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/LevelOrderPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RBtree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RBtree1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RbNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RbTree2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RbTree3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/trie/Itrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Itrie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/trie/Trie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Trie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/trie/Trie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Trie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/trie/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/UF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/UF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURankPathCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURankPathCompression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURankPathHalving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURankPathHalving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURankPathSplitting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURankPathSplitting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQUSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQUSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/generic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/generic/UFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/UFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/generic/UnionFindGeneric1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/UnionFindGeneric1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/generic/UnionFindGeneric2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/UnionFindGeneric2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R_PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R_PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R_PH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R_PH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R_PS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R_PS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_S.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_S.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/examples/AnipopString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/AnipopString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/examples/ArrayRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/ArrayRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/examples/ForLoopSelfIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/ForLoopSelfIncrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/examples/SortedArrayUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/SortedArrayUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/examples/WordsReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/WordsReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/DoubleFold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/DoubleFold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex1112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ex1112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex11167.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex1118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ex1118.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex116.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ex116.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext1110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1113.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext1113.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext1114.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1115.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext1115.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext117.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext117.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext119.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/LoopRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/LoopRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/NarcissisticNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/NarcissisticNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/SortedSparseArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/SortedSparseArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/SparseArrayByArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/SparseArrayByArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/SparseArrayBySingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/SparseArrayBySingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/TaxCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/TaxCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/HeapSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/HeapSort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/HeapSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/HeapSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/MergeSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/MergeSort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jalgs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jalgs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/work.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="jalgs" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin File" />
-        <option value="AnnotationType" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
-    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-        <option name="jdkForImporter" value="1.8" />
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1atLP08730CG5FqE3UXS6EEYCiG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1oSt7ouL1PxupTqPyFU37IkIVjS" />
   <component name="ProjectViewState">
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="TODO_SCOPE" value="Project Files" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/java/ar/jansi-1.18.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/algs4/src/ds" />
-      <recent name="$PROJECT_DIR$/algs4/src" />
-    </key>
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="ds.map" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ds.graph" />
-      <recent name="ds.uf.perfm" />
-      <recent name="ds.uf" />
-      <recent name="sort" />
-      <recent name="ds.tree.bbst" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ds.tree.bst" />
-    </key>
-  </component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="ls" />
-      <command value="df -h" />
-      <command value="htop" />
-      <command value="top" />
-      <command value="javac" />
-      <command value="java" />
-      <command value="ll" />
-      <command value="pwd" />
-      <command value="dde-file-manager ." />
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.CoinChange">
-    <configuration name="CashExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algs.greedy.CashExchange" />
+  <component name="RunManager">
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phase2.leetcode.l88.MergeSortedArray" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algs.greedy.*" />
+          <option name="PATTERN" value="phase2.leetcode.l88.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,464 +323,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algs.recursion.ClimbStairs" />
-      <module name="jalgs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algs.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algs.dp.CoinChange" />
-      <module name="jalgs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algs.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CoinExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algs.dp.CoinExchange" />
-      <module name="jalgs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algs.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algs.recursion.Fibonacci" />
-      <module name="jalgs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algs.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algs.dc.MaximumSubarray" />
-      <module name="jalgs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algs.dc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.CashExchange" />
-      <item itemvalue="Application.ClimbStairs" />
-      <item itemvalue="Application.CoinChange" />
-      <item itemvalue="Application.CoinExchange" />
-      <item itemvalue="Application.MaximumSubarray" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CoinChange" />
-        <item itemvalue="Application.CoinExchange" />
-        <item itemvalue="Application.ClimbStairs" />
-        <item itemvalue="Application.MaximumSubarray" />
-        <item itemvalue="Application.CashExchange" />
+        <item itemvalue="Application.MergeSortedArray" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-    <option name="showServicesTree" value="false" />
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="186ae575-e702-4383-9a30-b6983f00426e" name="Default Changelist" comment="" />
-      <created>1587549915317</created>
+      <changelist id="079bed2a-d795-4274-a049-3f288681feb3" name="Default Changelist" comment="" />
+      <created>1613291656635</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587549915317</updated>
-      <workItem from="1587549919345" duration="6100000" />
-      <workItem from="1587611149686" duration="5481000" />
-      <workItem from="1587623057232" duration="4372000" />
-      <workItem from="1587629869478" duration="6933000" />
-      <workItem from="1587647655723" duration="5000" />
-      <workItem from="1587651970534" duration="7044000" />
-      <workItem from="1587692976556" duration="31000" />
-      <workItem from="1587717070585" duration="335000" />
-      <workItem from="1587717435125" duration="3582000" />
-      <workItem from="1587723421495" duration="11513000" />
-      <workItem from="1587777910144" duration="2533000" />
-      <workItem from="1587800956710" duration="9681000" />
-      <workItem from="1587856648388" duration="5581000" />
-      <workItem from="1587888602793" duration="13850000" />
-      <workItem from="1587905631556" duration="10213000" />
-      <workItem from="1587955813100" duration="3795000" />
-      <workItem from="1587969376693" duration="57911000" />
-      <workItem from="1588127891622" duration="58000" />
-      <workItem from="1588146578602" duration="21747000" />
-      <workItem from="1588381376793" duration="6440000" />
-      <workItem from="1588468003037" duration="19501000" />
-      <workItem from="1588575623547" duration="275000" />
-      <workItem from="1588576738016" duration="3441000" />
-      <workItem from="1588637408662" duration="1208000" />
-      <workItem from="1588670077052" duration="601000" />
-      <workItem from="1588674411172" duration="1126000" />
-      <workItem from="1588723180550" duration="25030000" />
-      <workItem from="1588772162078" duration="760000" />
-      <workItem from="1588810037746" duration="8001000" />
-      <workItem from="1588835911552" duration="238000" />
-      <workItem from="1588836168689" duration="13897000" />
-      <workItem from="1588860993472" duration="856000" />
-      <workItem from="1588899267500" duration="11604000" />
-      <workItem from="1588918351297" duration="12318000" />
-      <workItem from="1588984666169" duration="13858000" />
-      <workItem from="1589010315448" duration="11348000" />
-      <workItem from="1589073235019" duration="184000" />
-      <workItem from="1589087799961" duration="2971000" />
-      <workItem from="1589093721070" duration="17094000" />
-      <workItem from="1589119020446" duration="729000" />
-      <workItem from="1589155682746" duration="23767000" />
-      <workItem from="1589243453521" duration="6448000" />
-      <workItem from="1589250432386" duration="10639000" />
-      <workItem from="1589266108540" duration="1121000" />
-      <workItem from="1589269770788" duration="16213000" />
-      <workItem from="1589329384765" duration="2609000" />
-      <workItem from="1589345867741" duration="5513000" />
-      <workItem from="1589352886528" duration="11804000" />
-      <workItem from="1589417590454" duration="637000" />
-      <workItem from="1589444441131" duration="155000" />
-      <workItem from="1589503761756" duration="32073000" />
-      <workItem from="1589589304405" duration="22026000" />
-      <workItem from="1589615869206" duration="1809000" />
-      <workItem from="1589625098934" duration="2890000" />
-      <workItem from="1589710611906" duration="4142000" />
-      <workItem from="1589720458312" duration="722000" />
-      <workItem from="1589765355133" duration="22575000" />
-      <workItem from="1589840694262" duration="599000" />
-      <workItem from="1589847815878" duration="37781000" />
-      <workItem from="1589934398426" duration="10603000" />
-      <workItem from="1589956790768" duration="12578000" />
-      <workItem from="1590020896070" duration="30135000" />
-      <workItem from="1590107621894" duration="31752000" />
-      <workItem from="1590154422205" duration="1721000" />
-      <workItem from="1590280551124" duration="33902000" />
-      <workItem from="1590368238575" duration="16813000" />
-      <workItem from="1590411946093" duration="3000" />
-      <workItem from="1590413934433" duration="73000" />
-      <workItem from="1590414217322" duration="981000" />
-      <workItem from="1590415666636" duration="831000" />
-      <workItem from="1590480158728" duration="112000" />
-      <workItem from="1590487074394" duration="57000" />
-      <workItem from="1590540076913" duration="24701000" />
-      <workItem from="1590575341077" duration="3754000" />
-      <workItem from="1590626241815" duration="30244000" />
-      <workItem from="1590714295463" duration="21900000" />
-      <workItem from="1590754547761" duration="18000" />
-      <workItem from="1590798897309" duration="6045000" />
-      <workItem from="1590822264856" duration="6110000" />
-      <workItem from="1590884825201" duration="10551000" />
-      <workItem from="1590934048517" duration="223000" />
-      <workItem from="1590971671527" duration="26874000" />
-      <workItem from="1591059403933" duration="17638000" />
-      <workItem from="1591144267304" duration="18053000" />
-      <workItem from="1591490498876" duration="1852000" />
-      <workItem from="1591576369769" duration="17938000" />
-      <workItem from="1591663140415" duration="11585000" />
-      <workItem from="1591676135580" duration="18411000" />
-      <workItem from="1591749103517" duration="8107000" />
-      <workItem from="1591757684209" duration="13145000" />
-      <workItem from="1591836037124" duration="1378000" />
-      <workItem from="1591841690394" duration="604000" />
-      <workItem from="1591922786915" duration="20558000" />
-      <workItem from="1592043382938" duration="622000" />
-      <workItem from="1592181500445" duration="8350000" />
-      <workItem from="1592268592583" duration="25775000" />
-      <workItem from="1592355333730" duration="23403000" />
-      <workItem from="1592475735587" duration="6000" />
-      <workItem from="1592528912950" duration="16288000" />
-      <workItem from="1592559139500" duration="11021000" />
-      <workItem from="1592610939798" duration="379000" />
-      <workItem from="1599484316000" duration="530000" />
+      <updated>1613291656635</updated>
+      <workItem from="1613291659722" duration="40000" />
+      <workItem from="1613291780856" duration="269000" />
+      <workItem from="1613292070941" duration="704000" />
     </task>
-    <task id="LOCAL-00001" summary="union find">
-      <created>1592572301347</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1592572301347</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/algs4/lib/tree_printer" />
-    </ignored-roots>
-    <MESSAGE value="union find" />
-    <option name="LAST_COMMIT_MESSAGE" value="union find" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="559" y="202" key="#Auto_Import" timestamp="1593654323871">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="559" y="202" key="#Auto_Import/0.0.1920.1080@0.0.1920.1080" timestamp="1593654323871" />
-    <state x="670" y="192" width="571" height="693" key="#BinaryTree3" timestamp="1589330285877">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="670" y="192" width="571" height="693" key="#BinaryTree3/0.0.1920.1080@0.0.1920.1080" timestamp="1589330285877" />
-    <state x="674" y="193" key="#CashExchange" timestamp="1595041683696">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="674" y="193" key="#CashExchange/0.0.1920.1080@0.0.1920.1080" timestamp="1595041683696" />
-    <state x="584" y="202" key="#Deployment" timestamp="1587723512946">
-      <screen x="50" y="0" width="1870" height="1080" />
-    </state>
-    <state x="584" y="202" key="#Deployment/50.0.1870.1080@50.0.1870.1080" timestamp="1587723512946" />
-    <state x="548" y="202" width="802" height="675" key="#Inspections" timestamp="1594878892514">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="548" y="202" width="802" height="675" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1594878892514" />
-    <state x="584" y="202" key="#Inspections/50.0.1870.1080@50.0.1870.1080" timestamp="1587558604863" />
-    <state x="559" y="202" width="802" height="819" key="#Intentions" timestamp="1593918515735">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="559" y="202" width="802" height="819" key="#Intentions/0.0.1920.1080@0.0.1920.1080" timestamp="1593918515735" />
-    <state x="559" y="203" key="#Templates" timestamp="1592704216553">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="559" y="203" key="#Templates/0.0.1920.1080@0.0.1920.1080" timestamp="1592704216553" />
-    <state x="542" y="123" key="#Vim_Emulation" timestamp="1593746046566">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="542" y="123" key="#Vim_Emulation/0.0.1920.1080@0.0.1920.1080" timestamp="1593746046566" />
-    <state x="584" y="202" key="#Vim_Emulation/50.0.1870.1080@50.0.1870.1080" timestamp="1587558636417" />
-    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595840933368">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="370" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595840933368" />
-    <state x="410" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589848235250" />
-    <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588000882672">
-      <screen x="50" y="0" width="1870" height="1080" />
-    </state>
-    <state x="736" y="338" key="#com.intellij.fileTypes.FileTypeChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1588000882672" />
-    <state x="694" y="381" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1592812066476">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="694" y="381" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592812066476" />
-    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1594865731698">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="826" y="257" width="478" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1594865731698" />
-    <state x="797" y="260" key="#com.intellij.ide.util.MemberChooser/50.0.1870.1080@50.0.1870.1080" timestamp="1589711871291" />
-    <state x="747" y="153" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1590132908033">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="747" y="153" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590132908033" />
-    <state x="778" y="153" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1588810277083" />
-    <state x="671" y="158" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1592903429227">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="671" y="158" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592903429227" />
-    <state x="747" y="419" width="425" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592559397348">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="747" y="419" width="425" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1592559397348" />
-    <state x="747" y="447" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1595498349407">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="747" y="447" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080@0.0.1920.1080" timestamp="1595498349407" />
-    <state x="519" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594108448812">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="519" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594108448812" />
-    <state x="690" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1594001367031">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="690" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594001367031" />
-    <state x="722" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1587944040944" />
-    <state x="708" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592270158786">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="708" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1592270158786" />
-    <state x="563" y="54" key="CommitChangelistDialog2" timestamp="1592572301147">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="563" y="54" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1592572301147" />
-    <state x="598" y="54" key="CommitChangelistDialog2/50.0.1870.1080@50.0.1870.1080" timestamp="1588053987289" />
-    <state x="124" y="137" width="1715" height="880" key="DiffContextDialog" timestamp="1593397211682">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="124" y="137" width="1715" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593397211682" />
-    <state x="150" y="100" width="1670" height="880" key="DiffContextDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589854070829" />
-    <state x="741" y="298" width="426" height="482" key="FileChooserDialogImpl" timestamp="1590827822383">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="741" y="298" width="426" height="482" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1590827822383" />
-    <state x="772" y="298" width="426" height="595" key="FileChooserDialogImpl/50.0.1870.1080@50.0.1870.1080" timestamp="1589790411465" />
-    <state width="1918" height="986" key="GridCell.Tab.0.bottom" timestamp="1595984548027">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1918" height="986" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595984548027" />
-    <state width="1870" height="1016" key="GridCell.Tab.0.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837858" />
-    <state width="1918" height="986" key="GridCell.Tab.0.center" timestamp="1595984548025">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1918" height="986" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595984548025" />
-    <state width="1870" height="1016" key="GridCell.Tab.0.center/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837857" />
-    <state width="1918" height="986" key="GridCell.Tab.0.left" timestamp="1595984548024">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1918" height="986" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595984548024" />
-    <state width="1870" height="1016" key="GridCell.Tab.0.left/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837857" />
-    <state width="1918" height="986" key="GridCell.Tab.0.right" timestamp="1595984548026">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1918" height="986" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595984548026" />
-    <state width="1870" height="1016" key="GridCell.Tab.0.right/50.0.1870.1080@50.0.1870.1080" timestamp="1589868837858" />
-    <state width="1874" height="336" key="GridCell.Tab.1.bottom" timestamp="1594121583220">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594121583220" />
-    <state width="1824" height="342" key="GridCell.Tab.1.bottom/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state width="1874" height="336" key="GridCell.Tab.1.center" timestamp="1594121583219">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594121583219" />
-    <state width="1824" height="342" key="GridCell.Tab.1.center/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state width="1874" height="336" key="GridCell.Tab.1.left" timestamp="1594121583219">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594121583219" />
-    <state width="1824" height="342" key="GridCell.Tab.1.left/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state width="1874" height="336" key="GridCell.Tab.1.right" timestamp="1594121583219">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="336" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594121583219" />
-    <state width="1824" height="342" key="GridCell.Tab.1.right/50.0.1870.1080@50.0.1870.1080" timestamp="1589855278631" />
-    <state x="572" y="278" key="IDE.errors.dialog" timestamp="1587904036322">
-      <screen x="50" y="0" width="1870" height="1080" />
-    </state>
-    <state x="572" y="278" key="IDE.errors.dialog/50.0.1870.1080@50.0.1870.1080" timestamp="1587904036322" />
-    <state x="646" y="166" key="NewModule_or_Project.wizard" timestamp="1588839995788">
-      <screen x="50" y="0" width="1870" height="1080" />
-    </state>
-    <state x="646" y="166" key="NewModule_or_Project.wizard/50.0.1870.1080@50.0.1870.1080" timestamp="1588839995788" />
-    <state x="590" y="405" width="732" height="268" key="Performance.Activity.Monitor" timestamp="1595033118258">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="590" y="405" width="732" height="268" key="Performance.Activity.Monitor/0.0.1920.1080@0.0.1920.1080" timestamp="1595033118258" />
-    <state x="794" y="169" key="RollbackChangesDialog" timestamp="1589363902737">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="794" y="169" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1589363902737" />
-    <state x="464" y="173" width="1026" height="843" key="SettingsEditor" timestamp="1592884201548">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="464" y="173" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1592884201548" />
-    <state x="480" y="97" width="1026" height="843" key="SettingsEditor/50.0.1870.1080@50.0.1870.1080" timestamp="1589790413628" />
-    <state x="559" y="277" key="Vcs.Push.Dialog.v2" timestamp="1590132923002">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="559" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1590132923002" />
-    <state width="1640" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1588171049490">
-      <screen x="50" y="0" width="1870" height="1080" />
-    </state>
-    <state width="1640" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction/50.0.1870.1080@50.0.1870.1080" timestamp="1588171049490" />
-    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595765386785">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595765386785" />
-    <state x="659" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589957701811">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="659" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1589957701811" />
-    <state x="692" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/50.0.1870.1080@50.0.1870.1080" timestamp="1589853758933" />
-    <state x="762" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592572280208">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="762" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592572280208" />
-    <state x="792" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/50.0.1870.1080@50.0.1870.1080" timestamp="1588810280840" />
-    <state x="100" y="100" width="1720" height="880" key="dock-window-1" timestamp="1590661309947">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="100" y="100" width="1720" height="880" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1590661309947" />
-    <state x="547" y="199" key="editAsTableFormatDialogDimension" timestamp="1592189713768">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="547" y="199" key="editAsTableFormatDialogDimension/0.0.1920.1080@0.0.1920.1080" timestamp="1592189713768" />
-    <state x="690" y="298" width="526" height="484" key="extract.method.dialog" timestamp="1594866012049">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="690" y="298" width="526" height="484" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594866012049" />
-    <state x="722" y="298" key="extract.method.dialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589278492558" />
-    <state x="322" y="88" key="new project wizard" timestamp="1592880727587">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="322" y="88" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1592880727587" />
-    <state x="364" y="88" key="new project wizard/50.0.1870.1080@50.0.1870.1080" timestamp="1588767074880" />
-    <state x="673" y="171" key="refactoring.ChangeSignatureDialog" timestamp="1595841772434">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="673" y="171" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595841772434" />
-    <state x="705" y="171" key="refactoring.ChangeSignatureDialog/50.0.1870.1080@50.0.1870.1080" timestamp="1589855771184" />
-    <state x="615" y="248" width="672" height="677" key="run.anything.popup" timestamp="1592902686086">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="615" y="248" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592902686086" />
-    <state x="649" y="248" key="run.anything.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1588994635823" />
-    <state x="559" y="202" key="scopes" timestamp="1590714614208">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="559" y="202" key="scopes/0.0.1920.1080@0.0.1920.1080" timestamp="1590714614208" />
-    <state x="609" y="142" width="690" height="876" key="search.everywhere.popup" timestamp="1595932048720">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="609" y="142" width="690" height="876" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1595932048720" />
-    <state x="648" y="239" width="672" height="678" key="search.everywhere.popup/50.0.1870.1080@50.0.1870.1080" timestamp="1589858247066" />
-    <state x="689" y="453" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590133217955">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="689" y="453" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590133217955" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/jalgs$BinaryTree3.ic" NAME="BinaryTree3 Coverage Results" MODIFIED="1589417844072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>ds.tree.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/jalgs$SingleLinkedListReverse.ic" NAME="SingleLinkedListReverse Coverage Results" MODIFIED="1587894339018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>ds.collection.linkedlist.*</FILTER>
-    </SUITE>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
