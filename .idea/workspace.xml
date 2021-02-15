@@ -5,288 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="079bed2a-d795-4274-a049-3f288681feb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/compress/StringCompress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/CoinChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/lp/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/lru/LruCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/lru/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/PseudoRandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/FastFail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/game/GameEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/game/ScoreBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/sparse/SparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/bloom_filter/BloomFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListOptimization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/StaticLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/LinkedHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/sequence/BruteForce1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/sequence/BruteForce2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/sequence/Kmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/sequence/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/skip_list/SkipList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Bst5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Node5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RbTree4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/CharCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/LastWordLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/NestingLevelOfBraces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/hw/RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l628/MaxiumProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l75/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l88/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/students.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/algs4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/lib/algs4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/lib/commons-io-2.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/lib/junit-4.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/analyze/DoublingRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/analyze/DoublingRatio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/analyze/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/analyze/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bit/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bit/Swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bt/EightQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bt/EightQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bt/FourQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bt/FourQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bt/Queens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bt/Queens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/bt/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/bt/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/cmp/SortCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/cmp/Todo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dc/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dc/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dc/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dc/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dp/BigNumberMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/BigNumberMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dp/CoinExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/CoinExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/dp/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/dp/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/greedy/CashExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/greedy/CashExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/greedy/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/greedy/Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/greedy/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/greedy/Pirate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/greedy/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/greedy/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/hash/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/hash/Hash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/hash/HashConflictTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/hash/HashConflictTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/hash/HashmapHashcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/hash/HashmapHashcode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/operator/Xor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/operator/Xor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/ClimbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/Hanoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/NoneRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/NoneRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/recursion/TailRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/recursion/TailRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/search/BinarySearch_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/SortDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/SortDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/SortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/sort/Sortion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/algs/sort/Sortion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/algs/string_match/StringMatchExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/american-english" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/american-english" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/StdTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/BaseDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/BaseDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/Flips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/Flips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/FlipsMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/FlipsMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/Interval2DTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/Interval2DTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/Rools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/Rools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/abs/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/abs/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/bit/SignOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/bit/SignOfInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/HammingDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/math/HammingDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/IntCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/math/IntCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/basic/math/PopCnt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/basic/math/PopCnt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/ArrayAndArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/ArrayAndArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/ArrayDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/ArrayListInit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/CircularArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/CircularArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/ResizableArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/ResizableArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/sparse/Gomoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/sparse/Gomoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/sparse/SparseArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/array/sparse/SparseArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/array/sparse/SparseArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/bag/BaseBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/bag/BaseBag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/bag/BaseBagTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/Loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/ArrayListTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/arraylist/CollectionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/CollectionThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/circle/DoublyCircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/circle/DoublyCircularLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/circle/SingleCircularLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/circle/SingleCircularLinkedlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/doubly/DoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/doubly/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/doubly/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/josephus/ByDoublyCircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/josephus/ByDoublyCircularLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/CycleDetect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/CycleDetect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/LinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/LinkedListReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/SingleLinkedListReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/SingleLinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/SingleLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/SingleLinkedlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/collection/linkedlist/single/VirtualHeadNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/common/JdbcUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/common/JdbcUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/common/Skill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/common/Skill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/common/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/common/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/ds.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/ds.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/ListGraph1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/ListGraph2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/ListGraph3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/MinHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/graph/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/BinaryHeap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/heap/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/HashMapTS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/TreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/TreeMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/hashmap/HashMap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/hashmap/HashMapDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/hashmap/HashMapDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/hashmap/HashMapDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/map/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/map/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayDeQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/ArrayDeQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/CircularArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/CircularArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/QueueByDoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/QueueByDoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/QueueByStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/QueueByStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ResizableArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/ResizableArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/ResizableCircleDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/ResizableCircleDeque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/IntQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/LinkListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/bak/LinkListQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/LinkListQueueTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/MyLoopQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/bak/MyLoopQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/bak/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/bak/TestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/bak/TestQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/queue/pakcage-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/queue/pakcage-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/set/ListSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/set/ListSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/set/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/set/Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/set/TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/set/TreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/set/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/set/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/app/DijkstraEvaluate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/app/EvaluateBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/app/EvaluateBrackets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/ChangeableCapacityStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/ChangeableCapacityStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/ChangeableCapacityStackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/DownwardStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/FixedCapacityStackOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/FixedCapacityStackOfStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/FixedCapacityStackOfStringsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/LinkListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/LinkListStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/LinkListStackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/MyStack1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/bak/TestMyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/bak/TestMyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/stack/by/StackByArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/stack/by/StackByArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/string/Alphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/string/Alphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/HuffmanTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/HuffmanTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/AvlTree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/AvlTree1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/AvlTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/AvlTree2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/AvlTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/AvlTree3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/BBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/BBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bbst/RbNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bbst/RbNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinarySearchTreeAlgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinarySearchTreeAlgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTree4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTreeByLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTreeByLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTreeByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTreeByRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryTreePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTreePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BinaryVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Bst3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Bst4Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Bst4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Bst4Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BstIteratorByLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BstIteratorByLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/BstIteratorByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BstIteratorByRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/bst/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/BinaryTreeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/BinaryTreeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/BinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/BinaryTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/InorderPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/InorderPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/LevelOrderPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/LevelOrderPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/printer/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/printer/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RBtree1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RBtree1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RbNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RbTree2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/rbtree/RbTree3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/tree/rbtree/RbTree4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/trie/Itrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Itrie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/trie/Trie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Trie1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/trie/Trie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Trie2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/trie/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/UF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/UF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/UnionFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURankPathCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURankPathCompression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURankPathHalving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURankPathHalving.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQURankPathSplitting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURankPathSplitting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/bak/UnionFindQUSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQUSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/generic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/generic/UFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/UFG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/generic/UnionFindGeneric1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/UnionFindGeneric1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/generic/UnionFindGeneric2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/UnionFindGeneric2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R_PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R_PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R_PH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R_PH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_R_PS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R_PS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/ds/uf/perfm/UnionFindQU_S.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_S.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/examples/AnipopString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/AnipopString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/examples/ArrayRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/ArrayRotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/examples/ForLoopSelfIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/ForLoopSelfIncrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/examples/SortedArrayUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/SortedArrayUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/examples/WordsReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/examples/WordsReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/DoubleFold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/DoubleFold.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex1112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ex1112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex11167.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex1118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ex1118.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ex116.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ex116.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext1110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1113.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext1113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext1114.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext1115.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext1115.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext117.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext117.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Ext119.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Ext119.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/LoopRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/LoopRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/NarcissisticNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/NarcissisticNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/SortedSparseArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/SortedSparseArraySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/SparseArrayByArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/SparseArrayByArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/SparseArrayBySingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/SparseArrayBySingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/bak/TaxCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/bak/TaxCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/HeapSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/HeapSort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/HeapSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/HeapSort2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/MergeSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/MergeSort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4/src/exercises/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/practice/sort/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jalgs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jalgs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/work.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/examples/ForLoopSelfIncrement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l75/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l75/SortColors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,6 +16,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1oSt7ouL1PxupTqPyFU37IkIVjS" />
   <component name="ProjectViewState">
@@ -309,13 +33,26 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SortColors">
     <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="phase2.leetcode.l88.MergeSortedArray" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="phase2.leetcode.l88.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phase2.leetcode.l75.SortColors" />
+      <module name="jalgs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phase2.leetcode.l75.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortColors" />
         <item itemvalue="Application.MergeSortedArray" />
       </list>
     </recent_temporary>
@@ -351,6 +89,8 @@
       <workItem from="1613291659722" duration="40000" />
       <workItem from="1613291780856" duration="269000" />
       <workItem from="1613292070941" duration="704000" />
+      <workItem from="1613297447592" duration="28000" />
+      <workItem from="1613353914650" duration="4710000" />
     </task>
     <servers />
   </component>
@@ -368,5 +108,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/phase2/leetcode/l75/SortColors.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
