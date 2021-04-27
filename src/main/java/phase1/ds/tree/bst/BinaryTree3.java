@@ -826,17 +826,18 @@ public class BinaryTree3<E extends Comparable<E>> implements BinaryTreeInfo {
 //        System.out.println("二叉树高度 递归： "  + bt3.height());
 //        System.out.println("二叉树高度 迭代： "  + bt3.getHeight());
 //        System.out.println("是否为完全二叉树：" + bt3.isComplete());
-//        findComplateBinaryTree();
-        BinaryTrees.println(bt3);
+//        BinaryTree3<Integer> bt = findComplateBinaryTree();
+
+//        BinaryTrees.println(bt3);
 //        bt3.invertRecursively();
 //        bt3.invert();
-//        printComplete();
+        printComplete();
 
 //        bt3.testPredSucc(bt3);
 //        bt3.testMaxMin();
 //        bt3.testFloor();
 //        bt3.testGet(bt3);
-        bt3.testRemove(bt3);
+//        bt3.testRemove(bt3);
     }
 
     public void testRemove(BinaryTree3<Integer> bt3) {

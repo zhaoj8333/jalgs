@@ -164,7 +164,7 @@ public class MinHeap<E> implements BinaryTreeInfo,Heap<E> {
         return root;
     }
 
-    private void heapify() {
+    public void heapify() {
         for (int i = (size >> 1) - 1; i >= 0; i--) {
             sinkDown(i);
         }

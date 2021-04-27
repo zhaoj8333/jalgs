@@ -51,9 +51,7 @@ public class Alphabet {
 //        System.out.println(Arrays.toString(alphabet));
         R = alpha.length();
         inverse = new int[Character.MAX_VALUE];
-        for (int i = 0; i < inverse.length; i++) {
-            inverse[i] = -1;
-        }
+        Arrays.fill(inverse, -1);
 //        System.out.println(Arrays.toString(inverse));
         for (int c = 0; c < R; c++) {
             inverse[alphabet[c]] = c;

@@ -8,4 +8,5 @@ public interface Heap<E> {
     E remove();
     E replace(E element);
     void clear();
+    void heapify();
 }

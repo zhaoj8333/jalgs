@@ -12,7 +12,7 @@ public class BinaryHeap3<E> implements BinaryTreeInfo,Heap<E> {
     private int size;
     private static final int DEFAULT_CAPACITY = 10;
     private E[] elements;
-    private Comparator<E> comparator;
+    private final Comparator<E> comparator;
 
     public BinaryHeap3(E[] elements, Comparator<E> comparator) {
         this.comparator = comparator;
@@ -20,7 +20,7 @@ public class BinaryHeap3<E> implements BinaryTreeInfo,Heap<E> {
             this.elements = (E[]) new Object[DEFAULT_CAPACITY];
         } else {
             size = elements.length;
-            int capacity = Math.max(size, DEFAULT_CAPACITY);
+            int capacity = Math.max(elements.length, DEFAULT_CAPACITY);
             this.elements = (E[]) new Object[capacity];
             System.arraycopy(elements, 0, this.elements, 0, size);
             heapify();
@@ -48,6 +48,11 @@ public class BinaryHeap3<E> implements BinaryTreeInfo,Heap<E> {
     @Override
     public void clear() {
         Arrays.fill(elements, null);
+    }
+
+    @Override
+    public void heapify() {
+
     }
 
     @Override
@@ -148,12 +153,6 @@ public class BinaryHeap3<E> implements BinaryTreeInfo,Heap<E> {
             sinkDown(0);
         }
         return root;
-    }
-
-    private void heapify() {
-        for (int i = (size >> 1) - 1; i >= 0; i--) {
-            sinkDown(i);
-        }
     }
 
     @Override

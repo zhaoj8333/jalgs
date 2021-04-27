@@ -239,17 +239,19 @@ public class BinaryHeap1<E> implements BinaryTreeInfo {
     private static void topK() {
         int k = 5;
         int num = 20;
-        Integer[] arr = new Integer[num];
-        for (int i = 0; i < num; i++) {
-            arr[i] = new Random().nextInt(num);
-        }
-        System.out.println(Arrays.toString(arr));
+//        Integer[] arr = new Integer[num];
+//        for (int i = 0; i < num; i++) {
+//            arr[i] = new Random().nextInt(num);
+//        }
+//        System.out.println(Arrays.toString(arr));
         BinaryHeap1<Integer> h = new BinaryHeap1<>(new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
-                return o2 - o1;
+                return o1 - o2;
+//                return o2 - o1;
             }
         });
+//        System.out.println(Arrays.toString(h.elements));
         /*
         for (int i = 0; i < arr.length; i++) {
             if (h.size() < k) {
@@ -259,7 +261,7 @@ public class BinaryHeap1<E> implements BinaryTreeInfo {
             }
         }
          */
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < num; i++) {
             if (h.size() < k) {
                 h.add(i);
             } else {

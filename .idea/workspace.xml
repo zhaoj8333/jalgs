@@ -4,23 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079bed2a-d795-4274-a049-3f288681feb3" name="Default Changelist" comment="">
+    <list default="true" id="ce5a0db1-5862-4546-a99c-8359a61363c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/avl/AvlNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/avl/AvlTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/avl/AvlTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb/RbNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb/RbTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb/RbTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/ds/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/ds/list/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/common/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l16/SubSortLcci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l160/LinkedListIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l2/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l203/RemoveLinkedlistElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/examples/ForLoopSelfIncrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l75/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l75/SortColors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/MinHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/string/Alphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/string/Alphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/graph/MinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/graph/MinHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/string/Alphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/string/Alphabet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/tree/bst/BinaryTree3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/tree/bst/BinaryTree3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java" root0="SKIP_INSPECTION" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
-  <component name="ProjectId" id="1oSt7ouL1PxupTqPyFU37IkIVjS" />
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="jalgs" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Objects.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="0ff0qwls" />
+  </component>
+  <component name="ProjectId" id="1qhRjhYhpfErh1WqmDME4fYBOtL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,17 +95,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
-  <component name="RunManager" selected="Application.SortColors">
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phase2.leetcode.l88.MergeSortedArray" />
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinaryHeap1">
+    <configuration name="BinaryHeap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phase1.ds.heap.BinaryHeap1" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="phase2.leetcode.l88.*" />
+          <option name="PATTERN" value="phase1.ds.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phase2.leetcode.l75.SortColors" />
+    <configuration name="BinaryHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phase1.ds.heap.re.BinaryHeapTest" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="phase2.leetcode.l75.*" />
+          <option name="PATTERN" value="phase1.ds.heap.re.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,37 +138,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.BinaryHeapTest" />
+      <item itemvalue="Application.BinaryHeap1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortColors" />
-        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.BinaryHeap1" />
+        <item itemvalue="Application.BinaryHeapTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="079bed2a-d795-4274-a049-3f288681feb3" name="Default Changelist" comment="" />
-      <created>1613291656635</created>
+      <changelist id="ce5a0db1-5862-4546-a99c-8359a61363c9" name="Default Changelist" comment="" />
+      <created>1617529971987</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613291656635</updated>
-      <workItem from="1613291659722" duration="40000" />
-      <workItem from="1613291780856" duration="269000" />
-      <workItem from="1613292070941" duration="704000" />
-      <workItem from="1613297447592" duration="28000" />
-      <workItem from="1613353914650" duration="4710000" />
+      <updated>1617529971987</updated>
+      <workItem from="1617529973983" duration="87000" />
+      <workItem from="1617530071353" duration="2315000" />
+      <workItem from="1617534956831" duration="1499000" />
+      <workItem from="1617583839326" duration="13623000" />
+      <workItem from="1617612449448" duration="2362000" />
+      <workItem from="1617673341923" duration="2451000" />
+      <workItem from="1617677981017" duration="2857000" />
+      <workItem from="1617690999585" duration="5194000" />
+      <workItem from="1617788612381" duration="5020000" />
+      <workItem from="1617800033118" duration="14000" />
+      <workItem from="1617873630871" duration="7138000" />
+      <workItem from="1617931845140" duration="6915000" />
+      <workItem from="1617939801563" duration="5489000" />
+      <workItem from="1617950094451" duration="5700000" />
+      <workItem from="1617960634909" duration="3119000" />
+      <workItem from="1617972899218" duration="2138000" />
+      <workItem from="1618043704374" duration="2198000" />
+      <workItem from="1618048653654" duration="6168000" />
+      <workItem from="1618064584163" duration="64000" />
+      <workItem from="1618103995463" duration="4138000" />
+      <workItem from="1618186115091" duration="420000" />
     </task>
     <servers />
   </component>
@@ -112,10 +199,48 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/phase2/leetcode/l75/SortColors.java</url>
-          <line>34</line>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
           <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb/RbTreeTest.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <line>72</line>
+          <properties class="phase1.ds.heap.re.BinaryHeap" method="shiftUp">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <line>61</line>
+          <properties class="phase1.ds.heap.re.BinaryHeap" method="add">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <line>126</line>
+          <properties class="phase1.ds.heap.re.BinaryHeap" method="siftDown">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
