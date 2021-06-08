@@ -1,38 +1,33 @@
-package phase1.ds.graph;
+package phase1.ds.tree.heap;
 
-import phase1.ds.tree.heap.Heap;
 import phase1.ds.tree.printer.BinaryTreeInfo;
+import phase1.ds.tree.printer.BinaryTrees;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.Comparator;
 
 /**
  * @author allen
  */
-public class MinHeap<E> implements BinaryTreeInfo,Heap<E> {
+public class BinaryHeap3<E> implements BinaryTreeInfo,Heap<E> {
     private int size;
     private static final int DEFAULT_CAPACITY = 10;
     private E[] elements;
-    private Comparator<E> comparator;
+    private final Comparator<E> comparator;
 
-    public MinHeap(Collection<E> elements, Comparator<E> comparator) {
+    public BinaryHeap3(E[] elements, Comparator<E> comparator) {
         this.comparator = comparator;
-        if (elements == null || elements.size() == 0) {
+        if (elements == null || elements.length == 0) {
             this.elements = (E[]) new Object[DEFAULT_CAPACITY];
         } else {
-            size = elements.size();
-            int capacity = Math.max(size, DEFAULT_CAPACITY);
+            size = elements.length;
+            int capacity = Math.max(elements.length, DEFAULT_CAPACITY);
             this.elements = (E[]) new Object[capacity];
-            int i = 0;
-            for (E element : elements) {
-                this.elements[i] = element;
-                i++;
-            }
+            System.arraycopy(elements, 0, this.elements, 0, size);
             heapify();
         }
     }
 
-    public MinHeap() {
+    public BinaryHeap3() {
         this(null, null);
     }
 
@@ -56,21 +51,17 @@ public class MinHeap<E> implements BinaryTreeInfo,Heap<E> {
     }
 
     @Override
+    public void heapify() {
+
+    }
+
+    @Override
     public void add(E element) {
         elementCheck(element);
         ensureCapacity(size + 1);
         this.elements[size] = element;
         floatUp(size);
         size++;
-    }
-
-    public void addAll(Collection<E> elements) {
-        if (elements == null) {
-            return;
-        }
-        for (E element : elements) {
-            add(element);
-        }
     }
 
     private void floatUp(int index) {
@@ -164,12 +155,6 @@ public class MinHeap<E> implements BinaryTreeInfo,Heap<E> {
         return root;
     }
 
-    public void heapify() {
-        for (int i = (size >> 1) - 1; i >= 0; i--) {
-            sinkDown(i);
-        }
-    }
-
     @Override
     public Object root() {
         return 0;
@@ -189,5 +174,77 @@ public class MinHeap<E> implements BinaryTreeInfo,Heap<E> {
     @Override
     public Object string(Object node) {
         return this.elements[(Integer) node];
+    }
+
+    public static void topK(int top) {
+//        BinaryHeap3<Integer> tmp  = new BinaryHeap3<>(arr, null);
+//        BinaryTrees.println(tmp);
+//        System.out.println("==================================");
+
+        BinaryHeap3<Integer> hp  = new BinaryHeap3<>(arr, (o1, o2)->o2 - o1);
+        BinaryTrees.println(hp);
+        System.out.println("==================================");
+
+        System.out.println(Arrays.toString(arr));
+        BinaryHeap3<Integer> tpk = new BinaryHeap3<>(null, (a, b) -> b - a);
+        for (Integer integer : arr) {
+            if (tpk.size() < top) {
+                tpk.add(integer);
+            } else {
+                if (integer > tpk.get()) {
+//                    System.out.println("----------------------" + arr[i] + " replace " + tpk.get());
+//                    BinaryTrees.println(tpk);
+//                    System.out.println(Arrays.toString(tpk.elements));
+                    tpk.replace(integer);
+                }
+            }
+        }
+        BinaryTrees.println(tpk);
+//        System.out.println(Arrays.toString(tpk.elements));
+    }
+
+    private static Integer[] arr = new Integer[1];
+
+    private static void initArr() {
+        int len = 20;
+        arr = new Integer[20];
+        for (int i = 0; i < len; i++) {
+//            arr[i] = StdRandom.uniform(100);
+            arr[i] = i;
+        }
+    }
+
+    public static void main(String[] args) {
+        // test1();
+        // test2();
+        test3();
+    }
+
+    private static void test3() {
+        initArr();
+        int top = 5;
+        topK(top);
+    }
+
+    private static void test2() {
+        initArr();
+        BinaryHeap3<Integer> hp = new BinaryHeap3<>(arr, null);
+        System.out.println(Arrays.toString(hp.elements));
+        BinaryTrees.println(hp);
+    }
+
+    private static void test1() {
+        BinaryHeap3<Integer> hp = new BinaryHeap3();
+        for (int i = 0; i < 10; i++) {
+            hp.add(i);
+//            System.out.println("-----------------------");
+//            BinaryTrees.println(hp);
+        }
+        System.out.println(Arrays.toString(hp.elements));
+        BinaryTrees.println(hp);
+        System.out.println();
+        System.out.println("remove: ");
+        hp.remove();
+        BinaryTrees.println(hp);
     }
 }

@@ -1,6 +1,6 @@
 package phase1.ds.graph;
 
-import phase1.ds.uf.generic.UnionFindGeneric2;
+import phase1.ds.tree.uf.generic.UnionFindGeneric2;
 import java.util.*;
 
 /**

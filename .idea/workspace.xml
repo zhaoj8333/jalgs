@@ -5,42 +5,133 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce5a0db1-5862-4546-a99c-8359a61363c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/avl/AvlNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/avl/AvlTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/avl/AvlTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb/RbNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb/RbTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb/RbTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/ds/list/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/ds/list/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/common/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l16/SubSortLcci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l160/LinkedListIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l2/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/phase2/leetcode/l203/RemoveLinkedlistElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/skiplist/SkipList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/trie/PrefixTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/arraylist/ArrayListDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/arraylist/ArrayListDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListOptimization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/arraylist/ArrayListOptimization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/ArrayListTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/arraylist/ArrayListTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/arraylist/CollectionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/arraylist/CollectionThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/StaticLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/StaticLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/circle/DoublyCircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/circle/DoublyCircularLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/circle/SingleCircularLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/circle/SingleCircularLinkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/doubly/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/doubly/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/doubly/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/doubly/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/josephus/ByDoublyCircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/josephus/ByDoublyCircularLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/CycleDetect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/single/CycleDetect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/LinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/single/LinkedListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/single/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/SingleLinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/single/SingleLinkedListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/SingleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/single/SingleLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/collection/linkedlist/single/SingleLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/linkedlist/single/SingleLinkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/ListGraph3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/graph/MinHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/string/Alphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/string/Alphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/BinaryTree3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/bst/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/BinaryHeap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/BinaryHeap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/BinaryHeap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/BinaryHeap3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/re/BinaryHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/re/BinaryHeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/skip_list/SkipList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/list/skiplist/SkipListBak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/HuffmanTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/HuffmanTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Itrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/trie/Itrie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Trie.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/trie/Trie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Trie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/trie/Trie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/Trie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/trie/Trie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/trie/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/trie/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/UF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/UF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/bak/UnionFindQF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/bak/UnionFindQU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/bak/UnionFindQURank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURankPathCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/bak/UnionFindQURankPathCompression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURankPathHalving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/bak/UnionFindQURankPathHalving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQURankPathSplitting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/bak/UnionFindQURankPathSplitting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/bak/UnionFindQUSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/bak/UnionFindQUSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/generic/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/UFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/generic/UFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/UnionFindGeneric1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/generic/UnionFindGeneric1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/generic/UnionFindGeneric2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/generic/UnionFindGeneric2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/perfm/UnionFindQF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/perfm/UnionFindQU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/perfm/UnionFindQU_R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R_PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/perfm/UnionFindQU_R_PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R_PH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/perfm/UnionFindQU_R_PH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_R_PS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/perfm/UnionFindQU_R_PS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/phase1/ds/uf/perfm/UnionFindQU_S.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/phase1/ds/tree/uf/perfm/UnionFindQU_S.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/arraylist/ArrayListDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/arraylist/ArrayListDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/arraylist/ArrayListOptimization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/arraylist/ArrayListTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/arraylist/CollectionThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/StaticLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/circle/DoublyCircularLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/circle/DoublyCircularLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/circle/SingleCircularLinkedlist$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/circle/SingleCircularLinkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/doubly/DoubleLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/doubly/DoubleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/doubly/DoublyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/doubly/DoublyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/josephus/ByDoublyCircularLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/josephus/ByDoublyCircularLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/single/CycleDetect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/single/LinkedListReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/single/MyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/single/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/single/SingleLinkedListReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/single/SingleLinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/single/SingleLinkedlist$ListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/single/SingleLinkedlist$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/collection/linkedlist/single/SingleLinkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/graph/ListGraph1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/graph/ListGraph1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/graph/ListGraph2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/graph/ListGraph2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/graph/ListGraph3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/graph/ListGraph3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/graph/MinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/graph/MinHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/heap/Heap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/string/Alphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/string/Alphabet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/tree/bst/BinaryTree3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/tree/bst/BinaryTree3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/BinaryHeap3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/heap/Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/skip_list/SkipList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/skip_list/SkipList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/tree/HuffmanTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/phase1/ds/tree/HuffmanTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/trie/Itrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/trie/Trie1$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/trie/Trie1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/trie/Trie2$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/trie/Trie2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/UF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/UnionFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/bak/UnionFindQF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/bak/UnionFindQU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/bak/UnionFindQURank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/bak/UnionFindQURankPathCompression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/bak/UnionFindQURankPathHalving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/bak/UnionFindQURankPathSplitting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/bak/UnionFindQUSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/generic/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/generic/UFG$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/generic/UFG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/generic/UnionFindGeneric1$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/generic/UnionFindGeneric1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/generic/UnionFindGeneric2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/perfm/UnionFindQF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/perfm/UnionFindQU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/perfm/UnionFindQU_R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/perfm/UnionFindQU_R_PC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/perfm/UnionFindQU_R_PH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/perfm/UnionFindQU_R_PS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/phase1/ds/uf/perfm/UnionFindQU_S.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,13 +202,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/phase1/ds/tree/re/rb" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryHeap1">
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration name="BinaryHeap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phase1.ds.heap.BinaryHeap1" />
+      <option name="MAIN_CLASS_NAME" value="phase1.ds.tree.heap.BinaryHeap1" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="phase1.ds.heap.*" />
+          <option name="PATTERN" value="phase1.ds.tree.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +216,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phase1.ds.heap.re.BinaryHeapTest" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phase1.algs.recursion.Fibonacci" />
       <module name="jalgs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="phase1.ds.heap.re.*" />
+          <option name="PATTERN" value="phase1.algs.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrefixTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phase1.ds.tree.trie.PrefixTree" />
+      <module name="jalgs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phase1.ds.tree.trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RbTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phase1.ds.tree.re.rb.RbTreeTest" />
+      <module name="jalgs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phase1.ds.tree.re.rb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkipList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phase1.ds.list.skiplist.SkipList" />
+      <module name="jalgs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phase1.ds.list.skiplist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,13 +269,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinaryHeapTest" />
       <item itemvalue="Application.BinaryHeap1" />
+      <item itemvalue="Application.RbTreeTest" />
+      <item itemvalue="Application.PrefixTree" />
+      <item itemvalue="Application.SkipList" />
+      <item itemvalue="Application.Fibonacci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.SkipList" />
+        <item itemvalue="Application.PrefixTree" />
+        <item itemvalue="Application.RbTreeTest" />
         <item itemvalue="Application.BinaryHeap1" />
-        <item itemvalue="Application.BinaryHeapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -209,35 +345,40 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/re/BinaryHeap.java</url>
           <line>116</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/re/BinaryHeap.java</url>
           <line>150</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/tree/trie/PrefixTree.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/re/BinaryHeap.java</url>
           <line>72</line>
-          <properties class="phase1.ds.heap.re.BinaryHeap" method="shiftUp">
+          <properties class="phase1.ds.tree.heap.re.BinaryHeap" method="shiftUp">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/re/BinaryHeap.java</url>
           <line>61</line>
-          <properties class="phase1.ds.heap.re.BinaryHeap" method="add">
+          <properties class="phase1.ds.tree.heap.re.BinaryHeap" method="add">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/heap/re/BinaryHeap.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/phase1/ds/tree/heap/re/BinaryHeap.java</url>
           <line>126</line>
-          <properties class="phase1.ds.heap.re.BinaryHeap" method="siftDown">
+          <properties class="phase1.ds.tree.heap.re.BinaryHeap" method="siftDown">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="11" />
