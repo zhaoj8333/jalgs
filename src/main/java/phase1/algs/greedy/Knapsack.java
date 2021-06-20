@@ -16,14 +16,10 @@ import java.util.*;
 public class Knapsack {
     public static void main(String[] args) {
         // 价值主导
-        select((Article a1, Article a2) -> {
-            return a2.value - a1.value;
-        });
+        select((Article a1, Article a2) -> a2.value - a1.value);
         System.out.println();
         //  重量主导
-        select((Article a1, Article a2) -> {
-            return a1.weight - a2.weight;
-        });
+        select(Comparator.comparingInt((Article a) -> a.weight));
         System.out.println();
         // 价值密度主导
         select((Article a1, Article a2) -> {

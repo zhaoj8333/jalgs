@@ -8,18 +8,18 @@ import java.util.Stack;
  */
 public class EvaluateBrackets {
     public static void main(String[] args) {
-        String s = "{{}}{}";
+        String s = "{{}[]}{}";
 //        s = "()]";
 //        s = "[";
 //        s = "[[]";
-        s = "()]";
+//        s = "()]";
 //        s = "[()]";
 //        s = "{[])";
 //        s = "])}}";
 //        s = "0";
 //        s = "{(}";
 //        s = "{{)}";
-        s = "[()[]";
+//        s = "[()[]";
         performanceCompare(s);
 //        System.out.println("s: " + s);
 //        boolean valid = byStack(s);
@@ -31,23 +31,23 @@ public class EvaluateBrackets {
     }
 
     private static void performanceCompare(String s) {
-//        Stopwatch sw = new Stopwatch();
+        long begin = System.currentTimeMillis();
         for (int i = 0; i < 1000000 ; i++) {
             boolean valid = byStack(s);
         }
-//        System.out.println("byStack    : " + sw.elapsedTime());
+        System.out.println("byStack    : " + (System.currentTimeMillis() - begin));
 
-//        sw = new Stopwatch();
+        begin = System.currentTimeMillis();
         for (int i = 0; i < 1000000; i++) {
             boolean valid = byStringOp(s);
         }
-//        System.out.println("byStringOp : " + sw.elapsedTime());
+        System.out.println("byStringOp : " + (System.currentTimeMillis() - begin));
 
-//        sw = new Stopwatch();
+        begin = System.currentTimeMillis();
         for (int i = 0; i < 1000000; i++) {
             boolean valid = byHashMap(s);
         }
-//        System.out.println("byStringOp : " + sw.elapsedTime());
+        System.out.println("byHashMap : " + (System.currentTimeMillis() - begin));
     }
 
     private static boolean byHashMap(String s) {
@@ -99,11 +99,11 @@ public class EvaluateBrackets {
      *      所有字符扫描完了以后，如果给栈为空，则合法，不为空括号无效
      */
     private static boolean byStack(String str) {
-        Stack<Character> stack = new Stack<>();
         if ("".equals(str)) {
             return true;
         }
-//        boolean valid = false;
+        Stack<Character> stack = new Stack<>();
+        boolean valid;
         int len = str.length();
         for (int i = 0; i < len; i++) {
             char c = str.charAt(i);
@@ -170,9 +170,5 @@ public class EvaluateBrackets {
              */
         }
         return stack.isEmpty();
-//        if (!stack.isEmpty()) {
-//            valid = false;
-//        }
-//        return valid;
     }
 }

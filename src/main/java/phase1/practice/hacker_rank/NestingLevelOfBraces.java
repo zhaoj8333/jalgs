@@ -1,4 +1,4 @@
-package phase1.practice.hw;
+package phase1.practice.hacker_rank;
 
 import java.util.Scanner;
 import java.util.Stack;

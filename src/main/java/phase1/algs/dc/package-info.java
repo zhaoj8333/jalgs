@@ -1,3 +1,5 @@
+package phase1.algs.dc;
+
 /*
     分治： divide and conquer  分而治之
 
@@ -26,4 +28,3 @@
 
 
  */
-package phase1.algs.dc;

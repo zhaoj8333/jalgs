@@ -20,8 +20,10 @@ import java.util.Arrays;
  */
 public class CashExchange {
     public static void main(String[] args) {
+        Integer[] faces1 = {10, 5, 25, 1};
+        change(faces1, 41, 4);
         Integer[] faces = {10, 5, 25, 1};
-//        change(faces);
+        change(faces);
         faces = new Integer[]{25, 20, 5, 1};
         change(faces, 41);
         faces = new Integer[] {11, 19, 7, 4, 2};

@@ -1,4 +1,4 @@
-package phase1.practice.hw;
+package phase1.practice.hacker_rank;
 
 public class CoinChange {
     public static void main(String[] args) {
